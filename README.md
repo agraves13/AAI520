@@ -25,12 +25,12 @@ o
 
 # meeting #1: 9/20/2023 @ 4:00 PM
 Agenda:
-Introductions
-Select the data corpus: **Selected the Movie corpus**
-Brainstorm UI and functions
-Allocate who does what as a guideline (Resource allocation)
-Start a schedule - timelines
-Schedule the next task and schedule (What are we doing next, Who is doing what, Who is testing, date for completion)(Scrum/Sprint style)
-Next call: **9/26/2023 @ 5:00 PM**
+• Introductions
+• Select the data corpus: **Selected the Movie corpus**
+• Brainstorm UI and functions
+• Allocate who does what as a guideline (Resource allocation)
+• Start a schedule - timelines
+• Schedule the next task and schedule (What are we doing next, Who is doing what, Who is testing, date for completion)(Scrum/Sprint style)
+• Next call: **9/26/2023 @ 5:00 PM**
 
 
