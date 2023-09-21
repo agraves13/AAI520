@@ -23,4 +23,14 @@ Your submission within Canvas will contain the following deliverables:
 o	
 	Note: It is recommended that you follow Garr Reynolds’ adviceLinks to an external site. on how to design effective presentations. Since this presentation is a narrated presentation, it is a best practice to create a script beneath each slide in speaker notes if in PowerPoint or on an external document if screen capturing using other software. The scripts will help you when recording the narration.
 
+# meeting #1: 9/20/2023 @ 4:00 PM
+Agenda:
+Introductions
+Select the data corpus: **Selected the Movie corpus**
+Brainstorm UI and functions
+Allocate who does what as a guideline (Resource allocation)
+Start a schedule - timelines
+Schedule the next task and schedule (What are we doing next, Who is doing what, Who is testing, date for completion)(Scrum/Sprint style)
+Next call: **9/26/2023 @ 5:00 PM**
+
 
