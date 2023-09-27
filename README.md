@@ -32,5 +32,14 @@ Agenda:
 • Start a schedule - timelines
 • Schedule the next task and schedule (What are we doing next, Who is doing what, Who is testing, date for completion)(Scrum/Sprint style)
 • Next call: **9/26/2023 @ 5:00 PM**
+# meeting #2: 9/26/2023 @ 5:00 PM
+Agenda:
+• Review the Strategy
+• Discuss the theme of the Chatbot
+• Discuss if we can or should use pre-trained models
+• Discuss how the input is dealt with
+• Discuss how the output should or can be
+• Assign tasks: Paul: Find out on the pre-trained data, review building the web chatbot GUI, Adam: Update documentation, research ETL and normalization, Alden: Prepare more info on the Chatbot output options
+• Next call: **9/29/2023 @ 3:00 PM**
 
 
