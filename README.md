@@ -41,5 +41,27 @@ Agenda:
 • Discuss how the output should or can be
 • Assign tasks: Paul: Find out on the pre-trained data, review building the web chatbot GUI, Adam: Update documentation, research ETL and normalization, Alden: Prepare more info on the Chatbot output options
 • Next call: **9/29/2023 @ 3:00 PM**
-
+# meeting #3: 10/02/2023 @ 12:15 PM
+Agenda:
+- Go over the data load
+- Discuss the hi level operational flow
+- Discuss current obstacles
+- Discuss option and what R&D anyone in the team has done
+- Decide on next steps**
+-   Steps:
+-   1. Get list of questions we to train
+    Potitive case
+        - What year was movie X released?
+        - What was the rating of movie X released?
+    Negative cases
+        - What is your favorite food?
+            - Response: I am a movie bot and cannot comment on food
+2. Write code to create the train csv with the question
+3. Train with autotrain
+4. Run fine tuned model
+Optional:
+5. Running the fine tuned model
+- Host on server with GPU
+- One potential solution: running on huggingface
+- Adam and Alden to provide Paul with bot related questions that Paul will use to build a csv file from the movie df we created and make this the file to train the LLM, Due 10/3/23
 
