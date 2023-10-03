@@ -1,0 +1,44 @@
+Questions for Training
+
+Who
+	1. Who was a character in <movie name>?
+	2. Who were the characters in <movie name>?
+	3. Who was a female character in <movie name>?
+	4. Who are the female characters in <movie name>?
+	5. Who was a male character in <movie name>?
+	6. Who are the male characters in <movie name>?
+	7. Who said "<conversation line>" in <movie name>?
+
+What
+	1. What movies were released in/before/after <year>?
+	2. What movies were released between <year> and <year>?
+	3. What <genre> movies were released in/before/after <year>?
+	4. What <genre> movies were released between <year> and <year>?
+	5. What are the highest rated movies of <year>?
+	6. What are the highest rated <genre> movies of <year>?
+	7. What are the lowest rated movies of <year>?
+	8. What are the lowest rated <genre> movies of <year>?
+	9. What movie has "<some text>" in the movie title?
+	10. What movies have "<some text>" in the movie title?
+	11. What movie contains the following quote: "<conversation text>"?
+	12. What movie has <character name(s)> in it?
+	13. What are some lines that <character name> in <movie name> says?
+	14. What is the genre of <movie name>?
+	15. What was the gender of <character name> in <movie name>?
+	16. What did <character name> say to <character name> in <movie name>?
+	17. What character said "<conversation line>" in <movie name>?
+	18. What character said "<conversation line>"?
+	
+When
+	1. When was <movie name> released?
+
+How
+	1. How many movies were released in/before/after <year>?
+	2. How many movies were released between <year> and <year>?
+	3. How many ratings did <movie name> receive?
+	4. How many characters are in <movie name>?
+
+Misc
+	1. Which movie(s) should I watch?
+	2. Which <genre> movie(s) should I watch?
+	3. Give me a list of movie genres.
