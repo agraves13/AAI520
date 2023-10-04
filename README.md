@@ -66,6 +66,6 @@ Optional:
 - Adam and Alden to provide Paul with bot related questions that Paul will use to build a csv file from the movie df we created and make this the file to train the LLM, Due 10/3/23
 # 10/4/2023 # Progress on pre-trained testing
 - Paul has loaded a version of hugging face and test a chatbot operation on a pre-trained model
-- Adam and Alden prepared a large movie dataset to load onto the pre-trained mocel to train it with our specific movie data
+- Adam and Alden prepared a large movie (formatted) dataset to load onto the pre-trained model to train it with our specific movie data
 - Testing and reults due 10/5/2023
 - Obstacles: the Accelerator gives problems on Coloab
