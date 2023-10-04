@@ -67,5 +67,15 @@ Optional:
 # 10/4/2023 # Progress on pre-trained testing
 - Paul has loaded a version of hugging face and test a chatbot operation on a pre-trained model
 - Adam and Alden prepared a large movie (formatted) dataset to load onto the pre-trained model to train it with our specific movie data
+-     Question and Answers were prepared on:
+-         # What year was the movie {} released in? - add year just in case
+          # what is the rating on the movie {}?
+          # what is the genres on the movie {}?
+          # how many votes did the movie {} receive?
+          # who are the characters in the movie {}?
+          # what gender is the character {} in the movie {}?
+          # do you have the full script for the movie {}? (Gives the url link)
+          # what are some line that {} said in the movie {}?
 - Testing and reults due 10/5/2023
 - Obstacles: the Accelerator gives problems on Coloab
+- GitHub updated with all file
