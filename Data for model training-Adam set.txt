@@ -1,0 +1,158 @@
+#question summary:
+# This is for: When was the movie {} released?
+# What year was the movie {} released in? - add year just in case
+# what is the rating on the movie {}?
+# what is the genres on the movie {}? 
+# how many votes did the movie {} receive? 
+# who are the characters in the movie {}? 
+# what gender is the character {} in the movie {}? 
+# do you have the full script for the movie {}? (Gives the url link)
+# what are some line that {} said in the movie {}? 
+
+
+
+# Initialize an empty train list
+questions_list = []
+
+# This is for: When was the movie {} released?
+template = """ 
+Below is an instruction that describes a movie related question. Write a response that appropriately answers the question.
+### Instruction:
+When was the movie {} released?
+
+### Response:
+The movie {} was released in {}
+"""
+
+for title, year in zip(df_movie_titles["movieTitle"], df_movie_titles["releaseYear"]):
+    formatted_text = template.format(title, title, year)
+    questions_list.append(formatted_text)
+
+# What year was the movie {} released in?
+template = """
+Below is an instruction that describes a movie related question. Write a response that appropriately answers the question.
+### Instruction:
+What year was the movie {} released in?
+
+### Response:
+The movie {} was released in the year {}
+"""
+
+for title, year in zip(df_movie_titles["movieTitle"], df_movie_titles["releaseYear"]):
+    formatted_text = template.format(title, title, year)
+    questions_list.append(formatted_text)
+
+# what is the rating on the movie {}?
+
+template = """
+Below is an instruction that describes a movie related question. Write a response that appropriately answers the question.
+### Instruction:
+what is the rating on the movie {}?
+
+### Response:
+The rating on {} is {}
+"""
+
+for title, imdb in zip(df_movie_titles["movieTitle"], df_movie_titles["imdbRating"]):
+    formatted_text = template.format(title, title, imdb)
+    questions_list.append(formatted_text)
+
+# what is the genres on the movie {}? 
+
+template = """
+Below is an instruction that describes a movie related question. Write a response that appropriately answers the question.
+### Instruction:
+what is the genres on the movie {}?
+
+### Response:
+The genres on {} is {}
+"""
+
+for title, genres in zip(df_movie_titles["movieTitle"], df_movie_titles["genre_1"]):
+    formatted_text = template.format(title, title, genres)
+    questions_list.append(formatted_text)
+
+# Second one if exist
+for title, genres in zip(df_movie_titles["movieTitle"], df_movie_titles["genre_2"]):
+    formatted_text = template.format(title, title, genres)
+    questions_list.append(formatted_text) 
+
+# how many votes did the movie {} receive? 
+
+template = """
+Below is an instruction that describes a movie related question. Write a response that appropriately answers the question.
+### Instruction:
+how many votes did the movie {} receive?
+
+### Response:
+{} received {} votes
+"""
+
+for title, votes in zip(df_movie_titles["movieTitle"], df_movie_titles["numVotes"]):
+    formatted_text = template.format(title, title, votes)
+    questions_list.append(formatted_text)
+
+# who are the characters in the movie {}? 
+
+template = """
+Below is an instruction that describes a movie related question. Write a response that appropriately answers the question.
+### Instruction:
+who are the characters in the movie {}?
+
+### Response:
+The character in {} is {}
+"""
+
+for title, character in zip(df_characters["movieTitle"], df_characters["characterName"]):
+    formatted_text = template.format(title, title, character)
+    questions_list.append(formatted_text)
+
+# what gender is the character {} in the movie {}? 
+
+template = """
+Below is an instruction that describes a movie related question. Write a response that appropriately answers the question.
+### Instruction:
+what gender is the character {} in the movie {}? 
+
+### Response:
+{}'s gender is {}
+"""
+
+for character, title, gender in zip(df_characters["characterName"], df_characters["movieTitle"], df_characters["gender"]):
+    formatted_text = template.format(character, title, character, gender)
+    questions_list.append(formatted_text)
+
+# do you have the full script for the movie {}? 
+
+template = """
+Below is an instruction that describes a movie related question. Write a response that appropriately answers the question.
+### Instruction:
+do you have the full script for the movie {}?  
+
+### Response:
+sure you can find it here {}
+"""
+
+for title, url in zip(df_script_urls["scriptURL"], df_script_urls["url"]):
+    formatted_text = template.format(title, url)
+    questions_list.append(formatted_text)
+
+# what are some line that {} said in the movie {}? 
+
+template = """
+Below is an instruction that describes a movie related question. Write a response that appropriately answers the question.
+### Instruction:
+what are some line that {} said in the movie {}? 
+
+### Response:
+{} said {}
+"""
+
+for character, title, text in zip(df_lines["character"], df_movie_titles["movieTitle"], df_lines["text"]):
+    formatted_text = template.format(character, title, character, text)
+    questions_list.append(formatted_text)
+
+# Store the csv for training
+output_file_path = "/content/drive/MyDrive/AAI-520/Final/Data/train_dir.json"
+df_from_list = pd.DataFrame({'text': questions_list})
+df_from_list.to_csv(output_file_path + "train.csv", index=True)
