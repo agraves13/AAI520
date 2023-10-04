@@ -1,0 +1,3704 @@
+[
+    {
+        "input_text": "what year was the movie 10 things i hate about you released?"
+    },
+    {
+        "target_text": "10 things i hate about you was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie 1492: conquest of paradise released?"
+    },
+    {
+        "target_text": "1492: conquest of paradise was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie 15 minutes released?"
+    },
+    {
+        "target_text": "15 minutes was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie 2001: a space odyssey released?"
+    },
+    {
+        "target_text": "2001: a space odyssey was released in 1968."
+    },
+    {
+        "input_text": "what year was the movie 48 hrs. released?"
+    },
+    {
+        "target_text": "48 hrs. was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie The fifth element released?"
+    },
+    {
+        "target_text": "The fifth element was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie 8mm released?"
+    },
+    {
+        "target_text": "8mm was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie A nightmare on elm street 4: the dream master released?"
+    },
+    {
+        "target_text": "A nightmare on elm street 4: the dream master was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie A nightmare on elm street: the dream child released?"
+    },
+    {
+        "target_text": "A nightmare on elm street: the dream child was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie The atomic submarine released?"
+    },
+    {
+        "target_text": "The atomic submarine was released in 1959."
+    },
+    {
+        "input_text": "what year was the movie Affliction released?"
+    },
+    {
+        "target_text": "Affliction was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Air force one released?"
+    },
+    {
+        "target_text": "Air force one was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Airplane ii: the sequel released?"
+    },
+    {
+        "target_text": "Airplane ii: the sequel was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie Airplane! released?"
+    },
+    {
+        "target_text": "Airplane! was released in 1980."
+    },
+    {
+        "input_text": "what year was the movie Alien nation released?"
+    },
+    {
+        "target_text": "Alien nation was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie Aliens released?"
+    },
+    {
+        "target_text": "Aliens was released in 1986."
+    },
+    {
+        "input_text": "what year was the movie Amadeus released?"
+    },
+    {
+        "target_text": "Amadeus was released in 1984."
+    },
+    {
+        "input_text": "what year was the movie An american werewolf in london released?"
+    },
+    {
+        "target_text": "An american werewolf in london was released in 1981."
+    },
+    {
+        "input_text": "what year was the movie American madness released?"
+    },
+    {
+        "target_text": "American madness was released in 1932."
+    },
+    {
+        "input_text": "what year was the movie American outlaws released?"
+    },
+    {
+        "target_text": "American outlaws was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie American psycho released?"
+    },
+    {
+        "target_text": "American psycho was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Antitrust released?"
+    },
+    {
+        "target_text": "Antitrust was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Austin powers: international man of mystery released?"
+    },
+    {
+        "target_text": "Austin powers: international man of mystery was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie The avengers released?"
+    },
+    {
+        "target_text": "The avengers was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Bachelor party released?"
+    },
+    {
+        "target_text": "Bachelor party was released in 1984."
+    },
+    {
+        "input_text": "what year was the movie Backdraft released?"
+    },
+    {
+        "target_text": "Backdraft was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie Bad lieutenant released?"
+    },
+    {
+        "target_text": "Bad lieutenant was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Bamboozled released?"
+    },
+    {
+        "target_text": "Bamboozled was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Barry lyndon released?"
+    },
+    {
+        "target_text": "Barry lyndon was released in 1975."
+    },
+    {
+        "input_text": "what year was the movie Basic released?"
+    },
+    {
+        "target_text": "Basic was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Big fish released?"
+    },
+    {
+        "target_text": "Big fish was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Birthday girl released?"
+    },
+    {
+        "target_text": "Birthday girl was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Black snake moan released?"
+    },
+    {
+        "target_text": "Black snake moan was released in 2006."
+    },
+    {
+        "input_text": "what year was the movie Black rain released?"
+    },
+    {
+        "target_text": "Black rain was released in 1989/I."
+    },
+    {
+        "input_text": "what year was the movie Blade runner released?"
+    },
+    {
+        "target_text": "Blade runner was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie Blast from the past released?"
+    },
+    {
+        "target_text": "Blast from the past was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Blue velvet released?"
+    },
+    {
+        "target_text": "Blue velvet was released in 1986."
+    },
+    {
+        "input_text": "what year was the movie The boondock saints released?"
+    },
+    {
+        "target_text": "The boondock saints was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Bottle rocket released?"
+    },
+    {
+        "target_text": "Bottle rocket was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie The bourne supremacy released?"
+    },
+    {
+        "target_text": "The bourne supremacy was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie Braveheart released?"
+    },
+    {
+        "target_text": "Braveheart was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie The butterfly effect released?"
+    },
+    {
+        "target_text": "The butterfly effect was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie Casablanca released?"
+    },
+    {
+        "target_text": "Casablanca was released in 1942."
+    },
+    {
+        "input_text": "what year was the movie Cast away released?"
+    },
+    {
+        "target_text": "Cast away was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie The cider house rules released?"
+    },
+    {
+        "target_text": "The cider house rules was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Confidence released?"
+    },
+    {
+        "target_text": "Confidence was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Croupier released?"
+    },
+    {
+        "target_text": "Croupier was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Dark star released?"
+    },
+    {
+        "target_text": "Dark star was released in 1974."
+    },
+    {
+        "input_text": "what year was the movie Dark angel released?"
+    },
+    {
+        "target_text": "Dark angel was released in 1990."
+    },
+    {
+        "input_text": "what year was the movie Detroit rock city released?"
+    },
+    {
+        "target_text": "Detroit rock city was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Donnie darko released?"
+    },
+    {
+        "target_text": "Donnie darko was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Drop dead gorgeous released?"
+    },
+    {
+        "target_text": "Drop dead gorgeous was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Duck soup released?"
+    },
+    {
+        "target_text": "Duck soup was released in 1933."
+    },
+    {
+        "input_text": "what year was the movie The elephant man released?"
+    },
+    {
+        "target_text": "The elephant man was released in 1980."
+    },
+    {
+        "input_text": "what year was the movie Erik the viking released?"
+    },
+    {
+        "target_text": "Erik the viking was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Eternal sunshine of the spotless mind released?"
+    },
+    {
+        "target_text": "Eternal sunshine of the spotless mind was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie Even cowgirls get the blues released?"
+    },
+    {
+        "target_text": "Even cowgirls get the blues was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie Event horizon released?"
+    },
+    {
+        "target_text": "Event horizon was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Fantastic four released?"
+    },
+    {
+        "target_text": "Fantastic four was released in 2005."
+    },
+    {
+        "input_text": "what year was the movie Fast times at ridgemont high released?"
+    },
+    {
+        "target_text": "Fast times at ridgemont high was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie Fear and loathing in las vegas released?"
+    },
+    {
+        "target_text": "Fear and loathing in las vegas was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Feast released?"
+    },
+    {
+        "target_text": "Feast was released in 2005."
+    },
+    {
+        "input_text": "what year was the movie Frances released?"
+    },
+    {
+        "target_text": "Frances was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie Frankenstein released?"
+    },
+    {
+        "target_text": "Frankenstein was released in 1931."
+    },
+    {
+        "input_text": "what year was the movie Friday the 13th released?"
+    },
+    {
+        "target_text": "Friday the 13th was released in 2009."
+    },
+    {
+        "input_text": "what year was the movie From dusk till dawn released?"
+    },
+    {
+        "target_text": "From dusk till dawn was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie G.i. jane released?"
+    },
+    {
+        "target_text": "G.i. jane was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Godzilla released?"
+    },
+    {
+        "target_text": "Godzilla was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Galaxy quest released?"
+    },
+    {
+        "target_text": "Galaxy quest was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie George washington released?"
+    },
+    {
+        "target_text": "George washington was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Get shorty released?"
+    },
+    {
+        "target_text": "Get shorty was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Ghost ship released?"
+    },
+    {
+        "target_text": "Ghost ship was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Ghost world released?"
+    },
+    {
+        "target_text": "Ghost world was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie The ghost and the darkness released?"
+    },
+    {
+        "target_text": "The ghost and the darkness was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Ghostbusters ii released?"
+    },
+    {
+        "target_text": "Ghostbusters ii was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Ghostbusters released?"
+    },
+    {
+        "target_text": "Ghostbusters was released in 1986."
+    },
+    {
+        "input_text": "what year was the movie Gladiator released?"
+    },
+    {
+        "target_text": "Gladiator was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie The graduate released?"
+    },
+    {
+        "target_text": "The graduate was released in 1967."
+    },
+    {
+        "input_text": "what year was the movie Grand hotel released?"
+    },
+    {
+        "target_text": "Grand hotel was released in 1932."
+    },
+    {
+        "input_text": "what year was the movie The grifters released?"
+    },
+    {
+        "target_text": "The grifters was released in 1990."
+    },
+    {
+        "input_text": "what year was the movie Halloween h20: 20 years later released?"
+    },
+    {
+        "target_text": "Halloween h20: 20 years later was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Halloween: the curse of michael myers released?"
+    },
+    {
+        "target_text": "Halloween: the curse of michael myers was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Happy birthday, wanda june released?"
+    },
+    {
+        "target_text": "Happy birthday, wanda june was released in 1971."
+    },
+    {
+        "input_text": "what year was the movie Hardcore released?"
+    },
+    {
+        "target_text": "Hardcore was released in 1979."
+    },
+    {
+        "input_text": "what year was the movie Harold and maude released?"
+    },
+    {
+        "target_text": "Harold and maude was released in 1971."
+    },
+    {
+        "input_text": "what year was the movie Hellbound: hellraiser ii released?"
+    },
+    {
+        "target_text": "Hellbound: hellraiser ii was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie Hellboy released?"
+    },
+    {
+        "target_text": "Hellboy was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie Hellraiser released?"
+    },
+    {
+        "target_text": "Hellraiser was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie High fidelity released?"
+    },
+    {
+        "target_text": "High fidelity was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Highlander released?"
+    },
+    {
+        "target_text": "Highlander was released in 1986."
+    },
+    {
+        "input_text": "what year was the movie His girl friday released?"
+    },
+    {
+        "target_text": "His girl friday was released in 1940."
+    },
+    {
+        "input_text": "what year was the movie Hope and glory released?"
+    },
+    {
+        "target_text": "Hope and glory was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie House of 1000 corpses released?"
+    },
+    {
+        "target_text": "House of 1000 corpses was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Human nature released?"
+    },
+    {
+        "target_text": "Human nature was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie The hustler released?"
+    },
+    {
+        "target_text": "The hustler was released in 1961."
+    },
+    {
+        "input_text": "what year was the movie I am legend released?"
+    },
+    {
+        "target_text": "I am legend was released in 2007."
+    },
+    {
+        "input_text": "what year was the movie Invaders from mars released?"
+    },
+    {
+        "target_text": "Invaders from mars was released in 1953."
+    },
+    {
+        "input_text": "what year was the movie Independence day released?"
+    },
+    {
+        "target_text": "Independence day was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Indiana jones and the last crusade released?"
+    },
+    {
+        "target_text": "Indiana jones and the last crusade was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Indiana jones and the temple of doom released?"
+    },
+    {
+        "target_text": "Indiana jones and the temple of doom was released in 1984."
+    },
+    {
+        "input_text": "what year was the movie Innerspace released?"
+    },
+    {
+        "target_text": "Innerspace was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie The insider released?"
+    },
+    {
+        "target_text": "The insider was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Intolerable cruelty released?"
+    },
+    {
+        "target_text": "Intolerable cruelty was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie It happened one night released?"
+    },
+    {
+        "target_text": "It happened one night was released in 1934."
+    },
+    {
+        "input_text": "what year was the movie Jfk released?"
+    },
+    {
+        "target_text": "Jfk was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie Jackie brown released?"
+    },
+    {
+        "target_text": "Jackie brown was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Jacob's ladder released?"
+    },
+    {
+        "target_text": "Jacob's ladder was released in 1990/I."
+    },
+    {
+        "input_text": "what year was the movie Jason x released?"
+    },
+    {
+        "target_text": "Jason x was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Jaws released?"
+    },
+    {
+        "target_text": "Jaws was released in 1975."
+    },
+    {
+        "input_text": "what year was the movie Juno released?"
+    },
+    {
+        "target_text": "Juno was released in 2007."
+    },
+    {
+        "input_text": "what year was the movie Kalifornia released?"
+    },
+    {
+        "target_text": "Kalifornia was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie Kids released?"
+    },
+    {
+        "target_text": "Kids was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Knight moves released?"
+    },
+    {
+        "target_text": "Knight moves was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Krull released?"
+    },
+    {
+        "target_text": "Krull was released in 1983."
+    },
+    {
+        "input_text": "what year was the movie L\u00e9on released?"
+    },
+    {
+        "target_text": "L\u00e9on was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Labor of love released?"
+    },
+    {
+        "target_text": "Labor of love was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Leaving las vegas released?"
+    },
+    {
+        "target_text": "Leaving las vegas was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Legally blonde released?"
+    },
+    {
+        "target_text": "Legally blonde was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Legend released?"
+    },
+    {
+        "target_text": "Legend was released in 1985."
+    },
+    {
+        "input_text": "what year was the movie Life as a house released?"
+    },
+    {
+        "target_text": "Life as a house was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie The life of david gale released?"
+    },
+    {
+        "target_text": "The life of david gale was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Little nicky released?"
+    },
+    {
+        "target_text": "Little nicky was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Logan's run released?"
+    },
+    {
+        "target_text": "Logan's run was released in 1976."
+    },
+    {
+        "input_text": "what year was the movie Lost highway released?"
+    },
+    {
+        "target_text": "Lost highway was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Lost horizon released?"
+    },
+    {
+        "target_text": "Lost horizon was released in 1937."
+    },
+    {
+        "input_text": "what year was the movie Men in black released?"
+    },
+    {
+        "target_text": "Men in black was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Minority report released?"
+    },
+    {
+        "target_text": "Minority report was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Made released?"
+    },
+    {
+        "target_text": "Made was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Malcolm x released?"
+    },
+    {
+        "target_text": "Malcolm x was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Man on fire released?"
+    },
+    {
+        "target_text": "Man on fire was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie Marty released?"
+    },
+    {
+        "target_text": "Marty was released in 1955."
+    },
+    {
+        "input_text": "what year was the movie Mash released?"
+    },
+    {
+        "target_text": "Mash was released in 1970."
+    },
+    {
+        "input_text": "what year was the movie Meet john doe released?"
+    },
+    {
+        "target_text": "Meet john doe was released in 1941."
+    },
+    {
+        "input_text": "what year was the movie Metro released?"
+    },
+    {
+        "target_text": "Metro was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Metropolis released?"
+    },
+    {
+        "target_text": "Metropolis was released in 1927."
+    },
+    {
+        "input_text": "what year was the movie Mighty morphin power rangers released?"
+    },
+    {
+        "target_text": "Mighty morphin power rangers was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Mobsters released?"
+    },
+    {
+        "target_text": "Mobsters was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie Monkeybone released?"
+    },
+    {
+        "target_text": "Monkeybone was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie My mother dreams the satan's disciples in new york released?"
+    },
+    {
+        "target_text": "My mother dreams the satan's disciples in new york was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Mr. smith goes to washington released?"
+    },
+    {
+        "target_text": "Mr. smith goes to washington was released in 1939."
+    },
+    {
+        "input_text": "what year was the movie Mr. deeds goes to town released?"
+    },
+    {
+        "target_text": "Mr. deeds goes to town was released in 1936."
+    },
+    {
+        "input_text": "what year was the movie Mumford released?"
+    },
+    {
+        "target_text": "Mumford was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie The mummy released?"
+    },
+    {
+        "target_text": "The mummy was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Mystery men released?"
+    },
+    {
+        "target_text": "Mystery men was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Napoleon released?"
+    },
+    {
+        "target_text": "Napoleon was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Next friday released?"
+    },
+    {
+        "target_text": "Next friday was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Nick of time released?"
+    },
+    {
+        "target_text": "Nick of time was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie The night of the hunter released?"
+    },
+    {
+        "target_text": "The night of the hunter was released in 1955."
+    },
+    {
+        "input_text": "what year was the movie A nightmare on elm street released?"
+    },
+    {
+        "target_text": "A nightmare on elm street was released in 1984."
+    },
+    {
+        "input_text": "what year was the movie Ninotchka released?"
+    },
+    {
+        "target_text": "Ninotchka was released in 1939."
+    },
+    {
+        "input_text": "what year was the movie Nixon released?"
+    },
+    {
+        "target_text": "Nixon was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie No country for old men released?"
+    },
+    {
+        "target_text": "No country for old men was released in 2007."
+    },
+    {
+        "input_text": "what year was the movie Nurse betty released?"
+    },
+    {
+        "target_text": "Nurse betty was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie O brother, where art thou? released?"
+    },
+    {
+        "target_text": "O brother, where art thou? was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie An officer and a gentleman released?"
+    },
+    {
+        "target_text": "An officer and a gentleman was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie Panic room released?"
+    },
+    {
+        "target_text": "Panic room was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Panther released?"
+    },
+    {
+        "target_text": "Panther was released in 1995/I."
+    },
+    {
+        "input_text": "what year was the movie The patriot released?"
+    },
+    {
+        "target_text": "The patriot was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Pet sematary released?"
+    },
+    {
+        "target_text": "Pet sematary was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Pirates of the caribbean released?"
+    },
+    {
+        "target_text": "Pirates of the caribbean was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Plastic man released?"
+    },
+    {
+        "target_text": "Plastic man was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Platinum blonde released?"
+    },
+    {
+        "target_text": "Platinum blonde was released in 1931."
+    },
+    {
+        "input_text": "what year was the movie Pleasantville released?"
+    },
+    {
+        "target_text": "Pleasantville was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Punch-drunk love released?"
+    },
+    {
+        "target_text": "Punch-drunk love was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Quills released?"
+    },
+    {
+        "target_text": "Quills was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Rko 281 released?"
+    },
+    {
+        "target_text": "Rko 281 was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Raging bull released?"
+    },
+    {
+        "target_text": "Raging bull was released in 1980."
+    },
+    {
+        "input_text": "what year was the movie Rear window released?"
+    },
+    {
+        "target_text": "Rear window was released in 1954."
+    },
+    {
+        "input_text": "what year was the movie Rebel without a cause released?"
+    },
+    {
+        "target_text": "Rebel without a cause was released in 1955."
+    },
+    {
+        "input_text": "what year was the movie Reindeer games released?"
+    },
+    {
+        "target_text": "Reindeer games was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Reservoir dogs released?"
+    },
+    {
+        "target_text": "Reservoir dogs was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Roughshod released?"
+    },
+    {
+        "target_text": "Roughshod was released in 1949."
+    },
+    {
+        "input_text": "what year was the movie Scary movie 2 released?"
+    },
+    {
+        "target_text": "Scary movie 2 was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Serial mom released?"
+    },
+    {
+        "target_text": "Serial mom was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie The seventh victim released?"
+    },
+    {
+        "target_text": "The seventh victim was released in 1943."
+    },
+    {
+        "input_text": "what year was the movie Sex, lies, and videotape released?"
+    },
+    {
+        "target_text": "Sex, lies, and videotape was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Shivers released?"
+    },
+    {
+        "target_text": "Shivers was released in 1975."
+    },
+    {
+        "input_text": "what year was the movie Shock treatment released?"
+    },
+    {
+        "target_text": "Shock treatment was released in 1981."
+    },
+    {
+        "input_text": "what year was the movie Sideways released?"
+    },
+    {
+        "target_text": "Sideways was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie Signs released?"
+    },
+    {
+        "target_text": "Signs was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Silverado released?"
+    },
+    {
+        "target_text": "Silverado was released in 1985."
+    },
+    {
+        "input_text": "what year was the movie Simone released?"
+    },
+    {
+        "target_text": "Simone was released in 2010."
+    },
+    {
+        "input_text": "what year was the movie The sixth sense released?"
+    },
+    {
+        "target_text": "The sixth sense was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Slash released?"
+    },
+    {
+        "target_text": "Slash was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Slither released?"
+    },
+    {
+        "target_text": "Slither was released in 2006."
+    },
+    {
+        "input_text": "what year was the movie Smokey and the bandit released?"
+    },
+    {
+        "target_text": "Smokey and the bandit was released in 1977."
+    },
+    {
+        "input_text": "what year was the movie Smokin' aces released?"
+    },
+    {
+        "target_text": "Smokin' aces was released in 2006."
+    },
+    {
+        "input_text": "what year was the movie Solaris released?"
+    },
+    {
+        "target_text": "Solaris was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Someone to watch over me released?"
+    },
+    {
+        "target_text": "Someone to watch over me was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie Spider-man released?"
+    },
+    {
+        "target_text": "Spider-man was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Stalag 17 released?"
+    },
+    {
+        "target_text": "Stalag 17 was released in 1953."
+    },
+    {
+        "input_text": "what year was the movie Star trek: generations released?"
+    },
+    {
+        "target_text": "Star trek: generations was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Star trek iii: the search for spock released?"
+    },
+    {
+        "target_text": "Star trek iii: the search for spock was released in 1984."
+    },
+    {
+        "input_text": "what year was the movie Star trek: the wrath of khan released?"
+    },
+    {
+        "target_text": "Star trek: the wrath of khan was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie Star trek iv: the voyage home released?"
+    },
+    {
+        "target_text": "Star trek iv: the voyage home was released in 1986."
+    },
+    {
+        "input_text": "what year was the movie Star trek: insurrection released?"
+    },
+    {
+        "target_text": "Star trek: insurrection was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Star trek: first contact released?"
+    },
+    {
+        "target_text": "Star trek: first contact was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Star trek vi: the undiscovered country released?"
+    },
+    {
+        "target_text": "Star trek vi: the undiscovered country was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie Star trek: nemesis released?"
+    },
+    {
+        "target_text": "Star trek: nemesis was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Starman released?"
+    },
+    {
+        "target_text": "Starman was released in 1984."
+    },
+    {
+        "input_text": "what year was the movie Strange days released?"
+    },
+    {
+        "target_text": "Strange days was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Suspect zero released?"
+    },
+    {
+        "target_text": "Suspect zero was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie Swingers released?"
+    },
+    {
+        "target_text": "Swingers was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie The godfather released?"
+    },
+    {
+        "target_text": "The godfather was released in 1972."
+    },
+    {
+        "input_text": "what year was the movie The talented mr. ripley released?"
+    },
+    {
+        "target_text": "The talented mr. ripley was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Taxi driver released?"
+    },
+    {
+        "target_text": "Taxi driver was released in 1976."
+    },
+    {
+        "input_text": "what year was the movie The rock released?"
+    },
+    {
+        "target_text": "The rock was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie The majestic released?"
+    },
+    {
+        "target_text": "The majestic was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie The birds released?"
+    },
+    {
+        "target_text": "The birds was released in 1963."
+    },
+    {
+        "input_text": "what year was the movie The body snatcher released?"
+    },
+    {
+        "target_text": "The body snatcher was released in 1945."
+    },
+    {
+        "input_text": "what year was the movie The crow: salvation released?"
+    },
+    {
+        "target_text": "The crow: salvation was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie The day the earth stood still released?"
+    },
+    {
+        "target_text": "The day the earth stood still was released in 2008."
+    },
+    {
+        "input_text": "what year was the movie The lost boys released?"
+    },
+    {
+        "target_text": "The lost boys was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie The thing released?"
+    },
+    {
+        "target_text": "The thing was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie The time machine released?"
+    },
+    {
+        "target_text": "The time machine was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie The jacket released?"
+    },
+    {
+        "target_text": "The jacket was released in 2005."
+    },
+    {
+        "input_text": "what year was the movie Thelma & louise released?"
+    },
+    {
+        "target_text": "Thelma & louise was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie There's something about mary released?"
+    },
+    {
+        "target_text": "There's something about mary was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Thirteen days released?"
+    },
+    {
+        "target_text": "Thirteen days was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Thunderheart released?"
+    },
+    {
+        "target_text": "Thunderheart was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Top gun released?"
+    },
+    {
+        "target_text": "Top gun was released in 1986."
+    },
+    {
+        "input_text": "what year was the movie Total recall released?"
+    },
+    {
+        "target_text": "Total recall was released in 1990."
+    },
+    {
+        "input_text": "what year was the movie Tremors released?"
+    },
+    {
+        "target_text": "Tremors was released in 1990."
+    },
+    {
+        "input_text": "what year was the movie True believer released?"
+    },
+    {
+        "target_text": "True believer was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Twin peaks: fire walk with me released?"
+    },
+    {
+        "target_text": "Twin peaks: fire walk with me was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie The verdict released?"
+    },
+    {
+        "target_text": "The verdict was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie The war of the worlds released?"
+    },
+    {
+        "target_text": "The war of the worlds was released in 1953."
+    },
+    {
+        "input_text": "what year was the movie New nightmare released?"
+    },
+    {
+        "target_text": "New nightmare was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie White squall released?"
+    },
+    {
+        "target_text": "White squall was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Wild at heart released?"
+    },
+    {
+        "target_text": "Wild at heart was released in 1990."
+    },
+    {
+        "input_text": "what year was the movie Wonder boys released?"
+    },
+    {
+        "target_text": "Wonder boys was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie The woodsman released?"
+    },
+    {
+        "target_text": "The woodsman was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie The abyss released?"
+    },
+    {
+        "target_text": "The abyss was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie L'avventura released?"
+    },
+    {
+        "target_text": "L'avventura was released in 1960."
+    },
+    {
+        "input_text": "what year was the movie Agnes of god released?"
+    },
+    {
+        "target_text": "Agnes of god was released in 1985."
+    },
+    {
+        "input_text": "what year was the movie A hard day's night released?"
+    },
+    {
+        "target_text": "A hard day's night was released in 1964."
+    },
+    {
+        "input_text": "what year was the movie Alien released?"
+    },
+    {
+        "target_text": "Alien was released in 1979."
+    },
+    {
+        "input_text": "what year was the movie Alien vs. predator released?"
+    },
+    {
+        "target_text": "Alien vs. predator was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie All about eve released?"
+    },
+    {
+        "target_text": "All about eve was released in 1950."
+    },
+    {
+        "input_text": "what year was the movie All the president's men released?"
+    },
+    {
+        "target_text": "All the president's men was released in 1976."
+    },
+    {
+        "input_text": "what year was the movie American pie released?"
+    },
+    {
+        "target_text": "American pie was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie An american werewolf in paris released?"
+    },
+    {
+        "target_text": "An american werewolf in paris was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Anastasia released?"
+    },
+    {
+        "target_text": "Anastasia was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Annie hall released?"
+    },
+    {
+        "target_text": "Annie hall was released in 1977."
+    },
+    {
+        "input_text": "what year was the movie The anniversary party released?"
+    },
+    {
+        "target_text": "The anniversary party was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Antz released?"
+    },
+    {
+        "target_text": "Antz was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie The apartment released?"
+    },
+    {
+        "target_text": "The apartment was released in 1960."
+    },
+    {
+        "input_text": "what year was the movie Apocalypse now released?"
+    },
+    {
+        "target_text": "Apocalypse now was released in 1979."
+    },
+    {
+        "input_text": "what year was the movie Arctic blue released?"
+    },
+    {
+        "target_text": "Arctic blue was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie As good as it gets released?"
+    },
+    {
+        "target_text": "As good as it gets was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Assassins released?"
+    },
+    {
+        "target_text": "Assassins was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Asylum released?"
+    },
+    {
+        "target_text": "Asylum was released in 2005."
+    },
+    {
+        "input_text": "what year was the movie A walk to remember released?"
+    },
+    {
+        "target_text": "A walk to remember was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Back to the future released?"
+    },
+    {
+        "target_text": "Back to the future was released in 1985."
+    },
+    {
+        "input_text": "what year was the movie Badlands released?"
+    },
+    {
+        "target_text": "Badlands was released in 1973."
+    },
+    {
+        "input_text": "what year was the movie The adventures of buckaroo banzai across the 8th dimension released?"
+    },
+    {
+        "target_text": "The adventures of buckaroo banzai across the 8th dimension was released in 1984."
+    },
+    {
+        "input_text": "what year was the movie Barton fink released?"
+    },
+    {
+        "target_text": "Barton fink was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie Basic instinct released?"
+    },
+    {
+        "target_text": "Basic instinct was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Basquiat released?"
+    },
+    {
+        "target_text": "Basquiat was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Batman returns released?"
+    },
+    {
+        "target_text": "Batman returns was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Batman and robin released?"
+    },
+    {
+        "target_text": "Batman and robin was released in 1949."
+    },
+    {
+        "input_text": "what year was the movie Batman forever released?"
+    },
+    {
+        "target_text": "Batman forever was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Batman released?"
+    },
+    {
+        "target_text": "Batman was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Bean released?"
+    },
+    {
+        "target_text": "Bean was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Beavis and butt-head do america released?"
+    },
+    {
+        "target_text": "Beavis and butt-head do america was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Beetle juice released?"
+    },
+    {
+        "target_text": "Beetle juice was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie Being there released?"
+    },
+    {
+        "target_text": "Being there was released in 1979."
+    },
+    {
+        "input_text": "what year was the movie Being john malkovich released?"
+    },
+    {
+        "target_text": "Being john malkovich was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Beloved released?"
+    },
+    {
+        "target_text": "Beloved was released in 1998/I."
+    },
+    {
+        "input_text": "what year was the movie The big lebowski released?"
+    },
+    {
+        "target_text": "The big lebowski was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie The black dahlia released?"
+    },
+    {
+        "target_text": "The black dahlia was released in 2006."
+    },
+    {
+        "input_text": "what year was the movie Blade ii released?"
+    },
+    {
+        "target_text": "Blade ii was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Blade released?"
+    },
+    {
+        "target_text": "Blade was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Book of shadows: blair witch 2 released?"
+    },
+    {
+        "target_text": "Book of shadows: blair witch 2 was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Blood simple. released?"
+    },
+    {
+        "target_text": "Blood simple. was released in 1984."
+    },
+    {
+        "input_text": "what year was the movie Bloodmoon released?"
+    },
+    {
+        "target_text": "Bloodmoon was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Blow released?"
+    },
+    {
+        "target_text": "Blow was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie La battaglia di algeri released?"
+    },
+    {
+        "target_text": "La battaglia di algeri was released in 1966."
+    },
+    {
+        "input_text": "what year was the movie Body of evidence released?"
+    },
+    {
+        "target_text": "Body of evidence was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie The bridges of madison county released?"
+    },
+    {
+        "target_text": "The bridges of madison county was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Bones released?"
+    },
+    {
+        "target_text": "Bones was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Bound released?"
+    },
+    {
+        "target_text": "Bound was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie The bourne identity released?"
+    },
+    {
+        "target_text": "The bourne identity was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Brazil released?"
+    },
+    {
+        "target_text": "Brazil was released in 1985."
+    },
+    {
+        "input_text": "what year was the movie Bringing out the dead released?"
+    },
+    {
+        "target_text": "Bringing out the dead was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Broadcast news released?"
+    },
+    {
+        "target_text": "Broadcast news was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie A bucket of blood released?"
+    },
+    {
+        "target_text": "A bucket of blood was released in 1959."
+    },
+    {
+        "input_text": "what year was the movie Buffy the vampire slayer released?"
+    },
+    {
+        "target_text": "Buffy the vampire slayer was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Bull durham released?"
+    },
+    {
+        "target_text": "Bull durham was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie Casino released?"
+    },
+    {
+        "target_text": "Casino was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Catwoman released?"
+    },
+    {
+        "target_text": "Catwoman was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie Cellular released?"
+    },
+    {
+        "target_text": "Cellular was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie The crying game released?"
+    },
+    {
+        "target_text": "The crying game was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Charade released?"
+    },
+    {
+        "target_text": "Charade was released in 1963."
+    },
+    {
+        "input_text": "what year was the movie Cherry falls released?"
+    },
+    {
+        "target_text": "Cherry falls was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Chill factor released?"
+    },
+    {
+        "target_text": "Chill factor was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Chinatown released?"
+    },
+    {
+        "target_text": "Chinatown was released in 1974."
+    },
+    {
+        "input_text": "what year was the movie Nuovo cinema paradiso released?"
+    },
+    {
+        "target_text": "Nuovo cinema paradiso was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie Citizen kane released?"
+    },
+    {
+        "target_text": "Citizen kane was released in 1941."
+    },
+    {
+        "input_text": "what year was the movie Clerks. released?"
+    },
+    {
+        "target_text": "Clerks. was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Cliffhanger released?"
+    },
+    {
+        "target_text": "Cliffhanger was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie A clockwork orange released?"
+    },
+    {
+        "target_text": "A clockwork orange was released in 1971."
+    },
+    {
+        "input_text": "what year was the movie Collateral released?"
+    },
+    {
+        "target_text": "Collateral was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie Conspiracy theory released?"
+    },
+    {
+        "target_text": "Conspiracy theory was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Contact released?"
+    },
+    {
+        "target_text": "Contact was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Cool hand luke released?"
+    },
+    {
+        "target_text": "Cool hand luke was released in 1967."
+    },
+    {
+        "input_text": "what year was the movie Copycat released?"
+    },
+    {
+        "target_text": "Copycat was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Crash released?"
+    },
+    {
+        "target_text": "Crash was released in 2004/I."
+    },
+    {
+        "input_text": "what year was the movie Crazy love released?"
+    },
+    {
+        "target_text": "Crazy love was released in 2007/I."
+    },
+    {
+        "input_text": "what year was the movie Crime spree released?"
+    },
+    {
+        "target_text": "Crime spree was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Crouching tiger, hidden dragon released?"
+    },
+    {
+        "target_text": "Crouching tiger, hidden dragon was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie The crow released?"
+    },
+    {
+        "target_text": "The crow was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Cruel intentions released?"
+    },
+    {
+        "target_text": "Cruel intentions was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie The curse of the cat people released?"
+    },
+    {
+        "target_text": "The curse of the cat people was released in 1944."
+    },
+    {
+        "input_text": "what year was the movie The curse released?"
+    },
+    {
+        "target_text": "The curse was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie Dark city released?"
+    },
+    {
+        "target_text": "Dark city was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Dave released?"
+    },
+    {
+        "target_text": "Dave was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie Day of the dead released?"
+    },
+    {
+        "target_text": "Day of the dead was released in 1985."
+    },
+    {
+        "input_text": "what year was the movie Dead poets society released?"
+    },
+    {
+        "target_text": "Dead poets society was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Deep rising released?"
+    },
+    {
+        "target_text": "Deep rising was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie The deer hunter released?"
+    },
+    {
+        "target_text": "The deer hunter was released in 1978."
+    },
+    {
+        "input_text": "what year was the movie Demolition man released?"
+    },
+    {
+        "target_text": "Demolition man was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie The devil and daniel webster released?"
+    },
+    {
+        "target_text": "The devil and daniel webster was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie Die hard released?"
+    },
+    {
+        "target_text": "Die hard was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie Dog day afternoon released?"
+    },
+    {
+        "target_text": "Dog day afternoon was released in 1975."
+    },
+    {
+        "input_text": "what year was the movie Domino released?"
+    },
+    {
+        "target_text": "Domino was released in 2005."
+    },
+    {
+        "input_text": "what year was the movie Do the right thing released?"
+    },
+    {
+        "target_text": "Do the right thing was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Dumb and dumberer: when harry met lloyd released?"
+    },
+    {
+        "target_text": "Dumb and dumberer: when harry met lloyd was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Dune released?"
+    },
+    {
+        "target_text": "Dune was released in 1984."
+    },
+    {
+        "input_text": "what year was the movie Ed wood released?"
+    },
+    {
+        "target_text": "Ed wood was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Edtv released?"
+    },
+    {
+        "target_text": "Edtv was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Election released?"
+    },
+    {
+        "target_text": "Election was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie L.a. confidential released?"
+    },
+    {
+        "target_text": "L.a. confidential was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Enemy of the state released?"
+    },
+    {
+        "target_text": "Enemy of the state was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie The english patient released?"
+    },
+    {
+        "target_text": "The english patient was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Entrapment released?"
+    },
+    {
+        "target_text": "Entrapment was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Erin brockovich released?"
+    },
+    {
+        "target_text": "Erin brockovich was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Star wars: the empire strikes back released?"
+    },
+    {
+        "target_text": "Star wars: the empire strikes back was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie Escape from the planet of the apes released?"
+    },
+    {
+        "target_text": "Escape from the planet of the apes was released in 1971."
+    },
+    {
+        "input_text": "what year was the movie Escape from l.a. released?"
+    },
+    {
+        "target_text": "Escape from l.a. was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Excalibur released?"
+    },
+    {
+        "target_text": "Excalibur was released in 1981."
+    },
+    {
+        "input_text": "what year was the movie The exorcist released?"
+    },
+    {
+        "target_text": "The exorcist was released in 1973."
+    },
+    {
+        "input_text": "what year was the movie The fabulous baker boys released?"
+    },
+    {
+        "target_text": "The fabulous baker boys was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Face/off released?"
+    },
+    {
+        "target_text": "Face/off was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie The family man released?"
+    },
+    {
+        "target_text": "The family man was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie The fantastic four released?"
+    },
+    {
+        "target_text": "The fantastic four was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Fantastic voyage released?"
+    },
+    {
+        "target_text": "Fantastic voyage was released in 1966."
+    },
+    {
+        "input_text": "what year was the movie Fargo released?"
+    },
+    {
+        "target_text": "Fargo was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Fight club released?"
+    },
+    {
+        "target_text": "Fight club was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Final destination 2 released?"
+    },
+    {
+        "target_text": "Final destination 2 was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Final destination released?"
+    },
+    {
+        "target_text": "Final destination was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Rambo: first blood part ii released?"
+    },
+    {
+        "target_text": "Rambo: first blood part ii was released in 1985."
+    },
+    {
+        "input_text": "what year was the movie The fisher king released?"
+    },
+    {
+        "target_text": "The fisher king was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie Five easy pieces released?"
+    },
+    {
+        "target_text": "Five easy pieces was released in 1970."
+    },
+    {
+        "input_text": "what year was the movie Five feet high and rising released?"
+    },
+    {
+        "target_text": "Five feet high and rising was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Fletch released?"
+    },
+    {
+        "target_text": "Fletch was released in 1985."
+    },
+    {
+        "input_text": "what year was the movie The adventures of ford fairlane released?"
+    },
+    {
+        "target_text": "The adventures of ford fairlane was released in 1990."
+    },
+    {
+        "input_text": "what year was the movie The french connection released?"
+    },
+    {
+        "target_text": "The french connection was released in 1971."
+    },
+    {
+        "input_text": "what year was the movie Frequency released?"
+    },
+    {
+        "target_text": "Frequency was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Friday the 13th part iii released?"
+    },
+    {
+        "target_text": "Friday the 13th part iii was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie Jason lives: friday the 13th part vi released?"
+    },
+    {
+        "target_text": "Jason lives: friday the 13th part vi was released in 1986."
+    },
+    {
+        "input_text": "what year was the movie Jason goes to hell: the final friday released?"
+    },
+    {
+        "target_text": "Jason goes to hell: the final friday was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie Friday the 13th part viii: jason takes manhattan released?"
+    },
+    {
+        "target_text": "Friday the 13th part viii: jason takes manhattan was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Game 6 released?"
+    },
+    {
+        "target_text": "Game 6 was released in 2005."
+    },
+    {
+        "input_text": "what year was the movie Gandhi released?"
+    },
+    {
+        "target_text": "Gandhi was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie Gattaca released?"
+    },
+    {
+        "target_text": "Gattaca was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie The getaway released?"
+    },
+    {
+        "target_text": "The getaway was released in 1972."
+    },
+    {
+        "input_text": "what year was the movie Get carter released?"
+    },
+    {
+        "target_text": "Get carter was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Glengarry glen ross released?"
+    },
+    {
+        "target_text": "Glengarry glen ross was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie The godfather: part ii released?"
+    },
+    {
+        "target_text": "The godfather: part ii was released in 1974."
+    },
+    {
+        "input_text": "what year was the movie Gods and monsters released?"
+    },
+    {
+        "target_text": "Gods and monsters was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Gone in sixty seconds released?"
+    },
+    {
+        "target_text": "Gone in sixty seconds was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Goodfellas released?"
+    },
+    {
+        "target_text": "Goodfellas was released in 1990."
+    },
+    {
+        "input_text": "what year was the movie Good will hunting released?"
+    },
+    {
+        "target_text": "Good will hunting was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie The grapes of wrath released?"
+    },
+    {
+        "target_text": "The grapes of wrath was released in 1940."
+    },
+    {
+        "input_text": "what year was the movie Grosse pointe blank released?"
+    },
+    {
+        "target_text": "Grosse pointe blank was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie The horse whisperer released?"
+    },
+    {
+        "target_text": "The horse whisperer was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Hackers released?"
+    },
+    {
+        "target_text": "Hackers was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Halloween 4: the return of michael myers released?"
+    },
+    {
+        "target_text": "Halloween 4: the return of michael myers was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie Halloween released?"
+    },
+    {
+        "target_text": "Halloween was released in 1978."
+    },
+    {
+        "input_text": "what year was the movie Hannah and her sisters released?"
+    },
+    {
+        "target_text": "Hannah and her sisters was released in 1986."
+    },
+    {
+        "input_text": "what year was the movie Hannibal released?"
+    },
+    {
+        "target_text": "Hannibal was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Happy campers released?"
+    },
+    {
+        "target_text": "Happy campers was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Heathers released?"
+    },
+    {
+        "target_text": "Heathers was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Heavenly creatures released?"
+    },
+    {
+        "target_text": "Heavenly creatures was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Hellraiser: hellseeker released?"
+    },
+    {
+        "target_text": "Hellraiser: hellseeker was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Hero released?"
+    },
+    {
+        "target_text": "Hero was released in 1992/I."
+    },
+    {
+        "input_text": "what year was the movie Hider in the house released?"
+    },
+    {
+        "target_text": "Hider in the house was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Highlander iii: the sorcerer released?"
+    },
+    {
+        "target_text": "Highlander iii: the sorcerer was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Hostage released?"
+    },
+    {
+        "target_text": "Hostage was released in 2005/I."
+    },
+    {
+        "input_text": "what year was the movie Hotel rwanda released?"
+    },
+    {
+        "target_text": "Hotel rwanda was released in 2004."
+    },
+    {
+        "input_text": "what year was the movie House on haunted hill released?"
+    },
+    {
+        "target_text": "House on haunted hill was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie House of the damned released?"
+    },
+    {
+        "target_text": "House of the damned was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Hellraiser iii: hell on earth released?"
+    },
+    {
+        "target_text": "Hellraiser iii: hell on earth was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Hudson hawk released?"
+    },
+    {
+        "target_text": "Hudson hawk was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie The hudsucker proxy released?"
+    },
+    {
+        "target_text": "The hudsucker proxy was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie I walked with a zombie released?"
+    },
+    {
+        "target_text": "I walked with a zombie was released in 1943."
+    },
+    {
+        "input_text": "what year was the movie The ice storm released?"
+    },
+    {
+        "target_text": "The ice storm was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Insomnia released?"
+    },
+    {
+        "target_text": "Insomnia was released in 2002/I."
+    },
+    {
+        "input_text": "what year was the movie Interview with the vampire: the vampire chronicles released?"
+    },
+    {
+        "target_text": "Interview with the vampire: the vampire chronicles was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie I still know what you did last summer released?"
+    },
+    {
+        "target_text": "I still know what you did last summer was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Isle of the dead released?"
+    },
+    {
+        "target_text": "Isle of the dead was released in 1945."
+    },
+    {
+        "input_text": "what year was the movie It's a wonderful life released?"
+    },
+    {
+        "target_text": "It's a wonderful life was released in 1946."
+    },
+    {
+        "input_text": "what year was the movie Jaws 2 released?"
+    },
+    {
+        "target_text": "Jaws 2 was released in 1978."
+    },
+    {
+        "input_text": "what year was the movie Jaws 3-d released?"
+    },
+    {
+        "target_text": "Jaws 3-d was released in 1983."
+    },
+    {
+        "input_text": "what year was the movie Jaws: the revenge released?"
+    },
+    {
+        "target_text": "Jaws: the revenge was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie The jazz singer released?"
+    },
+    {
+        "target_text": "The jazz singer was released in 1927."
+    },
+    {
+        "input_text": "what year was the movie Jennifer eight released?"
+    },
+    {
+        "target_text": "Jennifer eight was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Jerry maguire released?"
+    },
+    {
+        "target_text": "Jerry maguire was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Jurassic park iii released?"
+    },
+    {
+        "target_text": "Jurassic park iii was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie The lost world: jurassic park released?"
+    },
+    {
+        "target_text": "The lost world: jurassic park was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Jurassic park released?"
+    },
+    {
+        "target_text": "Jurassic park was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie Freddy vs. jason released?"
+    },
+    {
+        "target_text": "Freddy vs. jason was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Kafka released?"
+    },
+    {
+        "target_text": "Kafka was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie King kong released?"
+    },
+    {
+        "target_text": "King kong was released in 2005."
+    },
+    {
+        "input_text": "what year was the movie Klute released?"
+    },
+    {
+        "target_text": "Klute was released in 1971."
+    },
+    {
+        "input_text": "what year was the movie Kramer vs. kramer released?"
+    },
+    {
+        "target_text": "Kramer vs. kramer was released in 1979."
+    },
+    {
+        "input_text": "what year was the movie Kundun released?"
+    },
+    {
+        "target_text": "Kundun was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Lake placid released?"
+    },
+    {
+        "target_text": "Lake placid was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie The silence of the lambs released?"
+    },
+    {
+        "target_text": "The silence of the lambs was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie Last of the mohicans released?"
+    },
+    {
+        "target_text": "Last of the mohicans was released in 1977."
+    },
+    {
+        "input_text": "what year was the movie Leviathan released?"
+    },
+    {
+        "target_text": "Leviathan was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Lock, stock and two smoking barrels released?"
+    },
+    {
+        "target_text": "Lock, stock and two smoking barrels was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Lone star released?"
+    },
+    {
+        "target_text": "Lone star was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Lord of illusions released?"
+    },
+    {
+        "target_text": "Lord of illusions was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Lost in translation released?"
+    },
+    {
+        "target_text": "Lost in translation was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Lost souls released?"
+    },
+    {
+        "target_text": "Lost souls was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Love & basketball released?"
+    },
+    {
+        "target_text": "Love & basketball was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Magnolia released?"
+    },
+    {
+        "target_text": "Magnolia was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie The man in the iron mask released?"
+    },
+    {
+        "target_text": "The man in the iron mask was released in 1998/I."
+    },
+    {
+        "input_text": "what year was the movie Manhunt released?"
+    },
+    {
+        "target_text": "Manhunt was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie Manhunter released?"
+    },
+    {
+        "target_text": "Manhunter was released in 1986."
+    },
+    {
+        "input_text": "what year was the movie Man on the moon released?"
+    },
+    {
+        "target_text": "Man on the moon was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie The matrix released?"
+    },
+    {
+        "target_text": "The matrix was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Halloween iii: season of the witch released?"
+    },
+    {
+        "target_text": "Halloween iii: season of the witch was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie Meet joe black released?"
+    },
+    {
+        "target_text": "Meet joe black was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Memento released?"
+    },
+    {
+        "target_text": "Memento was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Miami vice released?"
+    },
+    {
+        "target_text": "Miami vice was released in 2006."
+    },
+    {
+        "input_text": "what year was the movie Midnight cowboy released?"
+    },
+    {
+        "target_text": "Midnight cowboy was released in 1969."
+    },
+    {
+        "input_text": "what year was the movie Midnight express released?"
+    },
+    {
+        "target_text": "Midnight express was released in 1978."
+    },
+    {
+        "input_text": "what year was the movie Mimic released?"
+    },
+    {
+        "target_text": "Mimic was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Misery released?"
+    },
+    {
+        "target_text": "Misery was released in 1990."
+    },
+    {
+        "input_text": "what year was the movie Mission: impossible ii released?"
+    },
+    {
+        "target_text": "Mission: impossible ii was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Mission: impossible released?"
+    },
+    {
+        "target_text": "Mission: impossible was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Moonstruck released?"
+    },
+    {
+        "target_text": "Moonstruck was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie Monty python and the holy grail released?"
+    },
+    {
+        "target_text": "Monty python and the holy grail was released in 1975."
+    },
+    {
+        "input_text": "what year was the movie Mrs brown released?"
+    },
+    {
+        "target_text": "Mrs brown was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Arcade released?"
+    },
+    {
+        "target_text": "Arcade was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie Mulholland dr. released?"
+    },
+    {
+        "target_text": "Mulholland dr. was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie \"murderland\" released?"
+    },
+    {
+        "target_text": "\"murderland\" was released in 2009."
+    },
+    {
+        "input_text": "what year was the movie My girl 2 released?"
+    },
+    {
+        "target_text": "My girl 2 was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie My girl released?"
+    },
+    {
+        "target_text": "My girl was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie My best friend's wedding released?"
+    },
+    {
+        "target_text": "My best friend's wedding was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Nashville released?"
+    },
+    {
+        "target_text": "Nashville was released in 1975."
+    },
+    {
+        "input_text": "what year was the movie Natural born killers released?"
+    },
+    {
+        "target_text": "Natural born killers was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Nothing but a man released?"
+    },
+    {
+        "target_text": "Nothing but a man was released in 1964."
+    },
+    {
+        "input_text": "what year was the movie The negotiator released?"
+    },
+    {
+        "target_text": "The negotiator was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Neuromancer released?"
+    },
+    {
+        "target_text": "Neuromancer was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie Never been kissed released?"
+    },
+    {
+        "target_text": "Never been kissed was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie The nightmare before christmas released?"
+    },
+    {
+        "target_text": "The nightmare before christmas was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie A nightmare on elm street part 2: freddy's revenge released?"
+    },
+    {
+        "target_text": "A nightmare on elm street part 2: freddy's revenge was released in 1985."
+    },
+    {
+        "input_text": "what year was the movie A nightmare on elm street 3: dream warriors released?"
+    },
+    {
+        "target_text": "A nightmare on elm street 3: dream warriors was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie Notting hill released?"
+    },
+    {
+        "target_text": "Notting hill was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie One flew over the cuckoo's nest released?"
+    },
+    {
+        "target_text": "One flew over the cuckoo's nest was released in 1975."
+    },
+    {
+        "input_text": "what year was the movie Only you released?"
+    },
+    {
+        "target_text": "Only you was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie On the waterfront released?"
+    },
+    {
+        "target_text": "On the waterfront was released in 1954."
+    },
+    {
+        "input_text": "what year was the movie Orgy of the dead released?"
+    },
+    {
+        "target_text": "Orgy of the dead was released in 1965."
+    },
+    {
+        "input_text": "what year was the movie Out of sight released?"
+    },
+    {
+        "target_text": "Out of sight was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Pearl harbor released?"
+    },
+    {
+        "target_text": "Pearl harbor was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Peggy sue got married released?"
+    },
+    {
+        "target_text": "Peggy sue got married was released in 1986."
+    },
+    {
+        "input_text": "what year was the movie Pet sematary ii released?"
+    },
+    {
+        "target_text": "Pet sematary ii was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Philadelphia released?"
+    },
+    {
+        "target_text": "Philadelphia was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie Pitch black released?"
+    },
+    {
+        "target_text": "Pitch black was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Planet of the apes released?"
+    },
+    {
+        "target_text": "Planet of the apes was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Platoon released?"
+    },
+    {
+        "target_text": "Platoon was released in 1986."
+    },
+    {
+        "input_text": "what year was the movie Playback released?"
+    },
+    {
+        "target_text": "Playback was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie The ploughman's lunch released?"
+    },
+    {
+        "target_text": "The ploughman's lunch was released in 1983."
+    },
+    {
+        "input_text": "what year was the movie Point break released?"
+    },
+    {
+        "target_text": "Point break was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie Predator released?"
+    },
+    {
+        "target_text": "Predator was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie Pretty woman released?"
+    },
+    {
+        "target_text": "Pretty woman was released in 1990."
+    },
+    {
+        "input_text": "what year was the movie The princess bride released?"
+    },
+    {
+        "target_text": "The princess bride was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie The producers released?"
+    },
+    {
+        "target_text": "The producers was released in 1968."
+    },
+    {
+        "input_text": "what year was the movie Psycho released?"
+    },
+    {
+        "target_text": "Psycho was released in 1960."
+    },
+    {
+        "input_text": "what year was the movie Maniac released?"
+    },
+    {
+        "target_text": "Maniac was released in 1980."
+    },
+    {
+        "input_text": "what year was the movie Vampyr released?"
+    },
+    {
+        "target_text": "Vampyr was released in 1932."
+    },
+    {
+        "input_text": "what year was the movie Mystery of the wax museum released?"
+    },
+    {
+        "target_text": "Mystery of the wax museum was released in 1933."
+    },
+    {
+        "input_text": "what year was the movie Quantum project released?"
+    },
+    {
+        "target_text": "Quantum project was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Rambling rose released?"
+    },
+    {
+        "target_text": "Rambling rose was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie Red white black & blue released?"
+    },
+    {
+        "target_text": "Red white black & blue was released in 2006."
+    },
+    {
+        "input_text": "what year was the movie Star wars: episode vi - return of the jedi released?"
+    },
+    {
+        "target_text": "Star wars: episode vi - return of the jedi was released in 1983."
+    },
+    {
+        "input_text": "what year was the movie The rocky horror picture show released?"
+    },
+    {
+        "target_text": "The rocky horror picture show was released in 1975."
+    },
+    {
+        "input_text": "what year was the movie Rocky released?"
+    },
+    {
+        "target_text": "Rocky was released in 1976."
+    },
+    {
+        "input_text": "what year was the movie Who framed roger rabbit released?"
+    },
+    {
+        "target_text": "Who framed roger rabbit was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie Romeo and juliet released?"
+    },
+    {
+        "target_text": "Romeo and juliet was released in 1968/I."
+    },
+    {
+        "input_text": "what year was the movie Ronin released?"
+    },
+    {
+        "target_text": "Ronin was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Route 9 released?"
+    },
+    {
+        "target_text": "Route 9 was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Rush hour 2 released?"
+    },
+    {
+        "target_text": "Rush hour 2 was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Rush hour released?"
+    },
+    {
+        "target_text": "Rush hour was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Runaway bride released?"
+    },
+    {
+        "target_text": "Runaway bride was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Sleepless in seattle released?"
+    },
+    {
+        "target_text": "Sleepless in seattle was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie Salt of the earth released?"
+    },
+    {
+        "target_text": "Salt of the earth was released in 1954."
+    },
+    {
+        "input_text": "what year was the movie The salton sea released?"
+    },
+    {
+        "target_text": "The salton sea was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie Saving private ryan released?"
+    },
+    {
+        "target_text": "Saving private ryan was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Say anything... released?"
+    },
+    {
+        "target_text": "Say anything... was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Schindler's list released?"
+    },
+    {
+        "target_text": "Schindler's list was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie Scream 2 released?"
+    },
+    {
+        "target_text": "Scream 2 was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Scream 3 released?"
+    },
+    {
+        "target_text": "Scream 3 was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Scream released?"
+    },
+    {
+        "target_text": "Scream was released in 1996/I."
+    },
+    {
+        "input_text": "what year was the movie Seven released?"
+    },
+    {
+        "target_text": "Seven was released in 1979."
+    },
+    {
+        "input_text": "what year was the movie The searchers released?"
+    },
+    {
+        "target_text": "The searchers was released in 1956."
+    },
+    {
+        "input_text": "what year was the movie Seven days to live released?"
+    },
+    {
+        "target_text": "Seven days to live was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Shakespeare in love released?"
+    },
+    {
+        "target_text": "Shakespeare in love was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Shallow grave released?"
+    },
+    {
+        "target_text": "Shallow grave was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Shampoo released?"
+    },
+    {
+        "target_text": "Shampoo was released in 1975."
+    },
+    {
+        "input_text": "what year was the movie The shining released?"
+    },
+    {
+        "target_text": "The shining was released in 1980."
+    },
+    {
+        "input_text": "what year was the movie Silver bullet released?"
+    },
+    {
+        "target_text": "Silver bullet was released in 1985."
+    },
+    {
+        "input_text": "what year was the movie Sister act released?"
+    },
+    {
+        "target_text": "Sister act was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Sleepy hollow released?"
+    },
+    {
+        "target_text": "Sleepy hollow was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Sling blade released?"
+    },
+    {
+        "target_text": "Sling blade was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Smoke released?"
+    },
+    {
+        "target_text": "Smoke was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Snow falling on cedars released?"
+    },
+    {
+        "target_text": "Snow falling on cedars was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Soldier released?"
+    },
+    {
+        "target_text": "Soldier was released in 1998/I."
+    },
+    {
+        "input_text": "what year was the movie Some like it hot released?"
+    },
+    {
+        "target_text": "Some like it hot was released in 1959."
+    },
+    {
+        "input_text": "what year was the movie The wedding date released?"
+    },
+    {
+        "target_text": "The wedding date was released in 2005."
+    },
+    {
+        "input_text": "what year was the movie Sounder released?"
+    },
+    {
+        "target_text": "Sounder was released in 1972."
+    },
+    {
+        "input_text": "what year was the movie South park: bigger longer & uncut released?"
+    },
+    {
+        "target_text": "South park: bigger longer & uncut was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Spacejacked released?"
+    },
+    {
+        "target_text": "Spacejacked was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Spare me released?"
+    },
+    {
+        "target_text": "Spare me was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie Sphere released?"
+    },
+    {
+        "target_text": "Sphere was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Star wars released?"
+    },
+    {
+        "target_text": "Star wars was released in 1977."
+    },
+    {
+        "input_text": "what year was the movie Starship troopers released?"
+    },
+    {
+        "target_text": "Starship troopers was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Star trek: the motion picture released?"
+    },
+    {
+        "target_text": "Star trek: the motion picture was released in 1979."
+    },
+    {
+        "input_text": "what year was the movie State and main released?"
+    },
+    {
+        "target_text": "State and main was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Stepmom released?"
+    },
+    {
+        "target_text": "Stepmom was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Storytelling released?"
+    },
+    {
+        "target_text": "Storytelling was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Stranglehold released?"
+    },
+    {
+        "target_text": "Stranglehold was released in 2007."
+    },
+    {
+        "input_text": "what year was the movie Dr. strangelove or: how i learned to stop worrying and love the bomb released?"
+    },
+    {
+        "target_text": "Dr. strangelove or: how i learned to stop worrying and love the bomb was released in 1964."
+    },
+    {
+        "input_text": "what year was the movie Suburbia released?"
+    },
+    {
+        "target_text": "Suburbia was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Sugar & spice released?"
+    },
+    {
+        "target_text": "Sugar & spice was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Sunset blvd. released?"
+    },
+    {
+        "target_text": "Sunset blvd. was released in 1950."
+    },
+    {
+        "input_text": "what year was the movie Supergirl released?"
+    },
+    {
+        "target_text": "Supergirl was released in 1984."
+    },
+    {
+        "input_text": "what year was the movie Superman iii released?"
+    },
+    {
+        "target_text": "Superman iii was released in 1983."
+    },
+    {
+        "input_text": "what year was the movie Superman ii released?"
+    },
+    {
+        "target_text": "Superman ii was released in 1980."
+    },
+    {
+        "input_text": "what year was the movie Superman iv: the quest for peace released?"
+    },
+    {
+        "target_text": "Superman iv: the quest for peace was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie Superman released?"
+    },
+    {
+        "target_text": "Superman was released in 1978."
+    },
+    {
+        "input_text": "what year was the movie The sweet hereafter released?"
+    },
+    {
+        "target_text": "The sweet hereafter was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Sweet smell of success released?"
+    },
+    {
+        "target_text": "Sweet smell of success was released in 1957."
+    },
+    {
+        "input_text": "what year was the movie Terminator 2: judgment day released?"
+    },
+    {
+        "target_text": "Terminator 2: judgment day was released in 1991."
+    },
+    {
+        "input_text": "what year was the movie Taking sides released?"
+    },
+    {
+        "target_text": "Taking sides was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie The terminator released?"
+    },
+    {
+        "target_text": "The terminator was released in 1984."
+    },
+    {
+        "input_text": "what year was the movie The game released?"
+    },
+    {
+        "target_text": "The game was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie The haunting released?"
+    },
+    {
+        "target_text": "The haunting was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie The limey released?"
+    },
+    {
+        "target_text": "The limey was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie The man who wasn't there released?"
+    },
+    {
+        "target_text": "The man who wasn't there was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie The relic released?"
+    },
+    {
+        "target_text": "The relic was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie The truman show released?"
+    },
+    {
+        "target_text": "The truman show was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie The x files released?"
+    },
+    {
+        "target_text": "The x files was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie The cell released?"
+    },
+    {
+        "target_text": "The cell was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie The third man released?"
+    },
+    {
+        "target_text": "The third man was released in 1949."
+    },
+    {
+        "input_text": "what year was the movie The beach released?"
+    },
+    {
+        "target_text": "The beach was released in 2000/I."
+    },
+    {
+        "input_text": "what year was the movie The believer released?"
+    },
+    {
+        "target_text": "The believer was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Le grand bleu released?"
+    },
+    {
+        "target_text": "Le grand bleu was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie The hebrew hammer released?"
+    },
+    {
+        "target_text": "The hebrew hammer was released in 2003."
+    },
+    {
+        "input_text": "what year was the movie The leopard man released?"
+    },
+    {
+        "target_text": "The leopard man was released in 1943."
+    },
+    {
+        "input_text": "what year was the movie The lost son released?"
+    },
+    {
+        "target_text": "The lost son was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie The messenger released?"
+    },
+    {
+        "target_text": "The messenger was released in 2009/I."
+    },
+    {
+        "input_text": "what year was the movie The pianist released?"
+    },
+    {
+        "target_text": "The pianist was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie The piano released?"
+    },
+    {
+        "target_text": "The piano was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie The sting released?"
+    },
+    {
+        "target_text": "The sting was released in 1973."
+    },
+    {
+        "input_text": "what year was the movie The thin man released?"
+    },
+    {
+        "target_text": "The thin man was released in 1934."
+    },
+    {
+        "input_text": "what year was the movie Three kings released?"
+    },
+    {
+        "target_text": "Three kings was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Thx 1138 released?"
+    },
+    {
+        "target_text": "Thx 1138 was released in 1971."
+    },
+    {
+        "input_text": "what year was the movie Ticker released?"
+    },
+    {
+        "target_text": "Ticker was released in 2001."
+    },
+    {
+        "input_text": "what year was the movie Trouble in paradise released?"
+    },
+    {
+        "target_text": "Trouble in paradise was released in 1932."
+    },
+    {
+        "input_text": "what year was the movie Titanic released?"
+    },
+    {
+        "target_text": "Titanic was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Transatlantic merry-go-round released?"
+    },
+    {
+        "target_text": "Transatlantic merry-go-round was released in 1934."
+    },
+    {
+        "input_text": "what year was the movie Tombstone released?"
+    },
+    {
+        "target_text": "Tombstone was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie Tomorrow never dies released?"
+    },
+    {
+        "target_text": "Tomorrow never dies was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie To sleep with anger released?"
+    },
+    {
+        "target_text": "To sleep with anger was released in 1990."
+    },
+    {
+        "input_text": "what year was the movie Toy story released?"
+    },
+    {
+        "target_text": "Toy story was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie The magic toyshop released?"
+    },
+    {
+        "target_text": "The magic toyshop was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie Traffic released?"
+    },
+    {
+        "target_text": "Traffic was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Trainspotting released?"
+    },
+    {
+        "target_text": "Trainspotting was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie Star trek v: the final frontier released?"
+    },
+    {
+        "target_text": "Star trek v: the final frontier was released in 1989."
+    },
+    {
+        "input_text": "what year was the movie Tron released?"
+    },
+    {
+        "target_text": "Tron was released in 1982."
+    },
+    {
+        "input_text": "what year was the movie True lies released?"
+    },
+    {
+        "target_text": "True lies was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie True romance released?"
+    },
+    {
+        "target_text": "True romance was released in 1993."
+    },
+    {
+        "input_text": "what year was the movie Twelve monkeys released?"
+    },
+    {
+        "target_text": "Twelve monkeys was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie U-turn released?"
+    },
+    {
+        "target_text": "U-turn was released in 1973."
+    },
+    {
+        "input_text": "what year was the movie U turn released?"
+    },
+    {
+        "target_text": "U turn was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Unbreakable released?"
+    },
+    {
+        "target_text": "Unbreakable was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Unforgiven released?"
+    },
+    {
+        "target_text": "Unforgiven was released in 1992."
+    },
+    {
+        "input_text": "what year was the movie The usual suspects released?"
+    },
+    {
+        "target_text": "The usual suspects was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Verdict released?"
+    },
+    {
+        "target_text": "Verdict was released in 1974."
+    },
+    {
+        "input_text": "what year was the movie Vertigo released?"
+    },
+    {
+        "target_text": "Vertigo was released in 1958."
+    },
+    {
+        "input_text": "what year was the movie Very bad things released?"
+    },
+    {
+        "target_text": "Very bad things was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Viridiana released?"
+    },
+    {
+        "target_text": "Viridiana was released in 1961."
+    },
+    {
+        "input_text": "what year was the movie Virtuosity released?"
+    },
+    {
+        "target_text": "Virtuosity was released in 1995."
+    },
+    {
+        "input_text": "what year was the movie Wag the dog released?"
+    },
+    {
+        "target_text": "Wag the dog was released in 1997."
+    },
+    {
+        "input_text": "what year was the movie Wall street released?"
+    },
+    {
+        "target_text": "Wall street was released in 1987."
+    },
+    {
+        "input_text": "what year was the movie Waxwork released?"
+    },
+    {
+        "target_text": "Waxwork was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie What lies beneath released?"
+    },
+    {
+        "target_text": "What lies beneath was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie What women want released?"
+    },
+    {
+        "target_text": "What women want was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie The witching hour released?"
+    },
+    {
+        "target_text": "The witching hour was released in 1996."
+    },
+    {
+        "input_text": "what year was the movie White angel released?"
+    },
+    {
+        "target_text": "White angel was released in 1994."
+    },
+    {
+        "input_text": "what year was the movie Who's your daddy? released?"
+    },
+    {
+        "target_text": "Who's your daddy? was released in 2003/I."
+    },
+    {
+        "input_text": "what year was the movie Wild things released?"
+    },
+    {
+        "target_text": "Wild things was released in 1998."
+    },
+    {
+        "input_text": "what year was the movie Wild wild west released?"
+    },
+    {
+        "target_text": "Wild wild west was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Willow released?"
+    },
+    {
+        "target_text": "Willow was released in 1988."
+    },
+    {
+        "input_text": "what year was the movie Witness released?"
+    },
+    {
+        "target_text": "Witness was released in 1985."
+    },
+    {
+        "input_text": "what year was the movie The wizard of oz released?"
+    },
+    {
+        "target_text": "The wizard of oz was released in 1939."
+    },
+    {
+        "input_text": "what year was the movie The world is not enough released?"
+    },
+    {
+        "target_text": "The world is not enough was released in 1999."
+    },
+    {
+        "input_text": "what year was the movie Watchmen released?"
+    },
+    {
+        "target_text": "Watchmen was released in 2009."
+    },
+    {
+        "input_text": "what year was the movie Xxx released?"
+    },
+    {
+        "target_text": "Xxx was released in 2002."
+    },
+    {
+        "input_text": "what year was the movie X-men released?"
+    },
+    {
+        "target_text": "X-men was released in 2000."
+    },
+    {
+        "input_text": "what year was the movie Young frankenstein released?"
+    },
+    {
+        "target_text": "Young frankenstein was released in 1974."
+    },
+    {
+        "input_text": "what year was the movie Zulu dawn released?"
+    },
+    {
+        "target_text": "Zulu dawn was released in 1979."
+    }
+]

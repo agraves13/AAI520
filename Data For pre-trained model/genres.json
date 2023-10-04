@@ -1,0 +1,3704 @@
+[
+    {
+        "input_text": "what genres is the movie 10 things i hate about you?"
+    },
+    {
+        "target_text": "10 things i hate about you is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie 1492: conquest of paradise?"
+    },
+    {
+        "target_text": "1492: conquest of paradise is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie 15 minutes?"
+    },
+    {
+        "target_text": "15 minutes is a action."
+    },
+    {
+        "input_text": "what genres is the movie 2001: a space odyssey?"
+    },
+    {
+        "target_text": "2001: a space odyssey is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie 48 hrs.?"
+    },
+    {
+        "target_text": "48 hrs. is a action."
+    },
+    {
+        "input_text": "what genres is the movie The fifth element?"
+    },
+    {
+        "target_text": "The fifth element is a action."
+    },
+    {
+        "input_text": "what genres is the movie 8mm?"
+    },
+    {
+        "target_text": "8mm is a crime."
+    },
+    {
+        "input_text": "what genres is the movie A nightmare on elm street 4: the dream master?"
+    },
+    {
+        "target_text": "A nightmare on elm street 4: the dream master is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie A nightmare on elm street: the dream child?"
+    },
+    {
+        "target_text": "A nightmare on elm street: the dream child is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie The atomic submarine?"
+    },
+    {
+        "target_text": "The atomic submarine is a sci-fi."
+    },
+    {
+        "input_text": "what genres is the movie Affliction?"
+    },
+    {
+        "target_text": "Affliction is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Air force one?"
+    },
+    {
+        "target_text": "Air force one is a action."
+    },
+    {
+        "input_text": "what genres is the movie Airplane ii: the sequel?"
+    },
+    {
+        "target_text": "Airplane ii: the sequel is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Airplane!?"
+    },
+    {
+        "target_text": "Airplane! is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Alien nation?"
+    },
+    {
+        "target_text": "Alien nation is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Aliens?"
+    },
+    {
+        "target_text": "Aliens is a action."
+    },
+    {
+        "input_text": "what genres is the movie Amadeus?"
+    },
+    {
+        "target_text": "Amadeus is a biography."
+    },
+    {
+        "input_text": "what genres is the movie An american werewolf in london?"
+    },
+    {
+        "target_text": "An american werewolf in london is a horror."
+    },
+    {
+        "input_text": "what genres is the movie American madness?"
+    },
+    {
+        "target_text": "American madness is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie American outlaws?"
+    },
+    {
+        "target_text": "American outlaws is a action."
+    },
+    {
+        "input_text": "what genres is the movie American psycho?"
+    },
+    {
+        "target_text": "American psycho is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Antitrust?"
+    },
+    {
+        "target_text": "Antitrust is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Austin powers: international man of mystery?"
+    },
+    {
+        "target_text": "Austin powers: international man of mystery is a action."
+    },
+    {
+        "input_text": "what genres is the movie The avengers?"
+    },
+    {
+        "target_text": "The avengers is a action."
+    },
+    {
+        "input_text": "what genres is the movie Bachelor party?"
+    },
+    {
+        "target_text": "Bachelor party is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Backdraft?"
+    },
+    {
+        "target_text": "Backdraft is a action."
+    },
+    {
+        "input_text": "what genres is the movie Bad lieutenant?"
+    },
+    {
+        "target_text": "Bad lieutenant is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Bamboozled?"
+    },
+    {
+        "target_text": "Bamboozled is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Barry lyndon?"
+    },
+    {
+        "target_text": "Barry lyndon is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Basic?"
+    },
+    {
+        "target_text": "Basic is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Big fish?"
+    },
+    {
+        "target_text": "Big fish is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Birthday girl?"
+    },
+    {
+        "target_text": "Birthday girl is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Black snake moan?"
+    },
+    {
+        "target_text": "Black snake moan is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Black rain?"
+    },
+    {
+        "target_text": "Black rain is a action."
+    },
+    {
+        "input_text": "what genres is the movie Blade runner?"
+    },
+    {
+        "target_text": "Blade runner is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Blast from the past?"
+    },
+    {
+        "target_text": "Blast from the past is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Blue velvet?"
+    },
+    {
+        "target_text": "Blue velvet is a crime."
+    },
+    {
+        "input_text": "what genres is the movie The boondock saints?"
+    },
+    {
+        "target_text": "The boondock saints is a action."
+    },
+    {
+        "input_text": "what genres is the movie Bottle rocket?"
+    },
+    {
+        "target_text": "Bottle rocket is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The bourne supremacy?"
+    },
+    {
+        "target_text": "The bourne supremacy is a action."
+    },
+    {
+        "input_text": "what genres is the movie Braveheart?"
+    },
+    {
+        "target_text": "Braveheart is a action."
+    },
+    {
+        "input_text": "what genres is the movie The butterfly effect?"
+    },
+    {
+        "target_text": "The butterfly effect is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Casablanca?"
+    },
+    {
+        "target_text": "Casablanca is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Cast away?"
+    },
+    {
+        "target_text": "Cast away is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie The cider house rules?"
+    },
+    {
+        "target_text": "The cider house rules is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Confidence?"
+    },
+    {
+        "target_text": "Confidence is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Croupier?"
+    },
+    {
+        "target_text": "Croupier is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Dark star?"
+    },
+    {
+        "target_text": "Dark star is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Dark angel?"
+    },
+    {
+        "target_text": "Dark angel is a action."
+    },
+    {
+        "input_text": "what genres is the movie Detroit rock city?"
+    },
+    {
+        "target_text": "Detroit rock city is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Donnie darko?"
+    },
+    {
+        "target_text": "Donnie darko is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Drop dead gorgeous?"
+    },
+    {
+        "target_text": "Drop dead gorgeous is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Duck soup?"
+    },
+    {
+        "target_text": "Duck soup is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The elephant man?"
+    },
+    {
+        "target_text": "The elephant man is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Erik the viking?"
+    },
+    {
+        "target_text": "Erik the viking is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Eternal sunshine of the spotless mind?"
+    },
+    {
+        "target_text": "Eternal sunshine of the spotless mind is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Even cowgirls get the blues?"
+    },
+    {
+        "target_text": "Even cowgirls get the blues is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Event horizon?"
+    },
+    {
+        "target_text": "Event horizon is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Fantastic four?"
+    },
+    {
+        "target_text": "Fantastic four is a action."
+    },
+    {
+        "input_text": "what genres is the movie Fast times at ridgemont high?"
+    },
+    {
+        "target_text": "Fast times at ridgemont high is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Fear and loathing in las vegas?"
+    },
+    {
+        "target_text": "Fear and loathing in las vegas is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Feast?"
+    },
+    {
+        "target_text": "Feast is a action."
+    },
+    {
+        "input_text": "what genres is the movie Frances?"
+    },
+    {
+        "target_text": "Frances is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Frankenstein?"
+    },
+    {
+        "target_text": "Frankenstein is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Friday the 13th?"
+    },
+    {
+        "target_text": "Friday the 13th is a horror\n."
+    },
+    {
+        "input_text": "what genres is the movie From dusk till dawn?"
+    },
+    {
+        "target_text": "From dusk till dawn is a action."
+    },
+    {
+        "input_text": "what genres is the movie G.i. jane?"
+    },
+    {
+        "target_text": "G.i. jane is a action."
+    },
+    {
+        "input_text": "what genres is the movie Godzilla?"
+    },
+    {
+        "target_text": "Godzilla is a action."
+    },
+    {
+        "input_text": "what genres is the movie Galaxy quest?"
+    },
+    {
+        "target_text": "Galaxy quest is a action."
+    },
+    {
+        "input_text": "what genres is the movie George washington?"
+    },
+    {
+        "target_text": "George washington is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Get shorty?"
+    },
+    {
+        "target_text": "Get shorty is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Ghost ship?"
+    },
+    {
+        "target_text": "Ghost ship is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Ghost world?"
+    },
+    {
+        "target_text": "Ghost world is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The ghost and the darkness?"
+    },
+    {
+        "target_text": "The ghost and the darkness is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Ghostbusters ii?"
+    },
+    {
+        "target_text": "Ghostbusters ii is a action."
+    },
+    {
+        "input_text": "what genres is the movie Ghostbusters?"
+    },
+    {
+        "target_text": "Ghostbusters is a animation."
+    },
+    {
+        "input_text": "what genres is the movie Gladiator?"
+    },
+    {
+        "target_text": "Gladiator is a action."
+    },
+    {
+        "input_text": "what genres is the movie The graduate?"
+    },
+    {
+        "target_text": "The graduate is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Grand hotel?"
+    },
+    {
+        "target_text": "Grand hotel is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The grifters?"
+    },
+    {
+        "target_text": "The grifters is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Halloween h20: 20 years later?"
+    },
+    {
+        "target_text": "Halloween h20: 20 years later is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Halloween: the curse of michael myers?"
+    },
+    {
+        "target_text": "Halloween: the curse of michael myers is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Happy birthday, wanda june?"
+    },
+    {
+        "target_text": "Happy birthday, wanda june is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Hardcore?"
+    },
+    {
+        "target_text": "Hardcore is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Harold and maude?"
+    },
+    {
+        "target_text": "Harold and maude is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Hellbound: hellraiser ii?"
+    },
+    {
+        "target_text": "Hellbound: hellraiser ii is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Hellboy?"
+    },
+    {
+        "target_text": "Hellboy is a action."
+    },
+    {
+        "input_text": "what genres is the movie Hellraiser?"
+    },
+    {
+        "target_text": "Hellraiser is a horror\n."
+    },
+    {
+        "input_text": "what genres is the movie High fidelity?"
+    },
+    {
+        "target_text": "High fidelity is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Highlander?"
+    },
+    {
+        "target_text": "Highlander is a action."
+    },
+    {
+        "input_text": "what genres is the movie His girl friday?"
+    },
+    {
+        "target_text": "His girl friday is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Hope and glory?"
+    },
+    {
+        "target_text": "Hope and glory is a drama."
+    },
+    {
+        "input_text": "what genres is the movie House of 1000 corpses?"
+    },
+    {
+        "target_text": "House of 1000 corpses is a horror\n."
+    },
+    {
+        "input_text": "what genres is the movie Human nature?"
+    },
+    {
+        "target_text": "Human nature is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The hustler?"
+    },
+    {
+        "target_text": "The hustler is a drama."
+    },
+    {
+        "input_text": "what genres is the movie I am legend?"
+    },
+    {
+        "target_text": "I am legend is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Invaders from mars?"
+    },
+    {
+        "target_text": "Invaders from mars is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Independence day?"
+    },
+    {
+        "target_text": "Independence day is a action."
+    },
+    {
+        "input_text": "what genres is the movie Indiana jones and the last crusade?"
+    },
+    {
+        "target_text": "Indiana jones and the last crusade is a action."
+    },
+    {
+        "input_text": "what genres is the movie Indiana jones and the temple of doom?"
+    },
+    {
+        "target_text": "Indiana jones and the temple of doom is a action."
+    },
+    {
+        "input_text": "what genres is the movie Innerspace?"
+    },
+    {
+        "target_text": "Innerspace is a action."
+    },
+    {
+        "input_text": "what genres is the movie The insider?"
+    },
+    {
+        "target_text": "The insider is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Intolerable cruelty?"
+    },
+    {
+        "target_text": "Intolerable cruelty is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie It happened one night?"
+    },
+    {
+        "target_text": "It happened one night is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Jfk?"
+    },
+    {
+        "target_text": "Jfk is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Jackie brown?"
+    },
+    {
+        "target_text": "Jackie brown is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Jacob's ladder?"
+    },
+    {
+        "target_text": "Jacob's ladder is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Jason x?"
+    },
+    {
+        "target_text": "Jason x is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Jaws?"
+    },
+    {
+        "target_text": "Jaws is a thriller\n."
+    },
+    {
+        "input_text": "what genres is the movie Juno?"
+    },
+    {
+        "target_text": "Juno is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Kalifornia?"
+    },
+    {
+        "target_text": "Kalifornia is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Kids?"
+    },
+    {
+        "target_text": "Kids is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Knight moves?"
+    },
+    {
+        "target_text": "Knight moves is a mystery."
+    },
+    {
+        "input_text": "what genres is the movie Krull?"
+    },
+    {
+        "target_text": "Krull is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie L\u00e9on?"
+    },
+    {
+        "target_text": "L\u00e9on is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Labor of love?"
+    },
+    {
+        "target_text": "Labor of love is a \n."
+    },
+    {
+        "input_text": "what genres is the movie Leaving las vegas?"
+    },
+    {
+        "target_text": "Leaving las vegas is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Legally blonde?"
+    },
+    {
+        "target_text": "Legally blonde is a comedy\n."
+    },
+    {
+        "input_text": "what genres is the movie Legend?"
+    },
+    {
+        "target_text": "Legend is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie Life as a house?"
+    },
+    {
+        "target_text": "Life as a house is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The life of david gale?"
+    },
+    {
+        "target_text": "The life of david gale is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Little nicky?"
+    },
+    {
+        "target_text": "Little nicky is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie Logan's run?"
+    },
+    {
+        "target_text": "Logan's run is a action."
+    },
+    {
+        "input_text": "what genres is the movie Lost highway?"
+    },
+    {
+        "target_text": "Lost highway is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Lost horizon?"
+    },
+    {
+        "target_text": "Lost horizon is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Men in black?"
+    },
+    {
+        "target_text": "Men in black is a action."
+    },
+    {
+        "input_text": "what genres is the movie Minority report?"
+    },
+    {
+        "target_text": "Minority report is a action."
+    },
+    {
+        "input_text": "what genres is the movie Made?"
+    },
+    {
+        "target_text": "Made is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Malcolm x?"
+    },
+    {
+        "target_text": "Malcolm x is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Man on fire?"
+    },
+    {
+        "target_text": "Man on fire is a action."
+    },
+    {
+        "input_text": "what genres is the movie Marty?"
+    },
+    {
+        "target_text": "Marty is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Mash?"
+    },
+    {
+        "target_text": "Mash is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Meet john doe?"
+    },
+    {
+        "target_text": "Meet john doe is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Metro?"
+    },
+    {
+        "target_text": "Metro is a action."
+    },
+    {
+        "input_text": "what genres is the movie Metropolis?"
+    },
+    {
+        "target_text": "Metropolis is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Mighty morphin power rangers?"
+    },
+    {
+        "target_text": "Mighty morphin power rangers is a action."
+    },
+    {
+        "input_text": "what genres is the movie Mobsters?"
+    },
+    {
+        "target_text": "Mobsters is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Monkeybone?"
+    },
+    {
+        "target_text": "Monkeybone is a animation."
+    },
+    {
+        "input_text": "what genres is the movie My mother dreams the satan's disciples in new york?"
+    },
+    {
+        "target_text": "My mother dreams the satan's disciples in new york is a short\n."
+    },
+    {
+        "input_text": "what genres is the movie Mr. smith goes to washington?"
+    },
+    {
+        "target_text": "Mr. smith goes to washington is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Mr. deeds goes to town?"
+    },
+    {
+        "target_text": "Mr. deeds goes to town is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Mumford?"
+    },
+    {
+        "target_text": "Mumford is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The mummy?"
+    },
+    {
+        "target_text": "The mummy is a action."
+    },
+    {
+        "input_text": "what genres is the movie Mystery men?"
+    },
+    {
+        "target_text": "Mystery men is a action."
+    },
+    {
+        "input_text": "what genres is the movie Napoleon?"
+    },
+    {
+        "target_text": "Napoleon is a family."
+    },
+    {
+        "input_text": "what genres is the movie Next friday?"
+    },
+    {
+        "target_text": "Next friday is a comedy\n."
+    },
+    {
+        "input_text": "what genres is the movie Nick of time?"
+    },
+    {
+        "target_text": "Nick of time is a crime."
+    },
+    {
+        "input_text": "what genres is the movie The night of the hunter?"
+    },
+    {
+        "target_text": "The night of the hunter is a drama."
+    },
+    {
+        "input_text": "what genres is the movie A nightmare on elm street?"
+    },
+    {
+        "target_text": "A nightmare on elm street is a horror\n."
+    },
+    {
+        "input_text": "what genres is the movie Ninotchka?"
+    },
+    {
+        "target_text": "Ninotchka is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Nixon?"
+    },
+    {
+        "target_text": "Nixon is a biography."
+    },
+    {
+        "input_text": "what genres is the movie No country for old men?"
+    },
+    {
+        "target_text": "No country for old men is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Nurse betty?"
+    },
+    {
+        "target_text": "Nurse betty is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie O brother, where art thou??"
+    },
+    {
+        "target_text": "O brother, where art thou? is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie An officer and a gentleman?"
+    },
+    {
+        "target_text": "An officer and a gentleman is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Panic room?"
+    },
+    {
+        "target_text": "Panic room is a thriller\n."
+    },
+    {
+        "input_text": "what genres is the movie Panther?"
+    },
+    {
+        "target_text": "Panther is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie The patriot?"
+    },
+    {
+        "target_text": "The patriot is a action."
+    },
+    {
+        "input_text": "what genres is the movie Pet sematary?"
+    },
+    {
+        "target_text": "Pet sematary is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Pirates of the caribbean?"
+    },
+    {
+        "target_text": "Pirates of the caribbean is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Plastic man?"
+    },
+    {
+        "target_text": "Plastic man is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Platinum blonde?"
+    },
+    {
+        "target_text": "Platinum blonde is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Pleasantville?"
+    },
+    {
+        "target_text": "Pleasantville is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Punch-drunk love?"
+    },
+    {
+        "target_text": "Punch-drunk love is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Quills?"
+    },
+    {
+        "target_text": "Quills is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Rko 281?"
+    },
+    {
+        "target_text": "Rko 281 is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Raging bull?"
+    },
+    {
+        "target_text": "Raging bull is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Rear window?"
+    },
+    {
+        "target_text": "Rear window is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Rebel without a cause?"
+    },
+    {
+        "target_text": "Rebel without a cause is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Reindeer games?"
+    },
+    {
+        "target_text": "Reindeer games is a action."
+    },
+    {
+        "input_text": "what genres is the movie Reservoir dogs?"
+    },
+    {
+        "target_text": "Reservoir dogs is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Roughshod?"
+    },
+    {
+        "target_text": "Roughshod is a action."
+    },
+    {
+        "input_text": "what genres is the movie Scary movie 2?"
+    },
+    {
+        "target_text": "Scary movie 2 is a comedy\n."
+    },
+    {
+        "input_text": "what genres is the movie Serial mom?"
+    },
+    {
+        "target_text": "Serial mom is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The seventh victim?"
+    },
+    {
+        "target_text": "The seventh victim is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Sex, lies, and videotape?"
+    },
+    {
+        "target_text": "Sex, lies, and videotape is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Shivers?"
+    },
+    {
+        "target_text": "Shivers is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Shock treatment?"
+    },
+    {
+        "target_text": "Shock treatment is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Sideways?"
+    },
+    {
+        "target_text": "Sideways is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Signs?"
+    },
+    {
+        "target_text": "Signs is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Silverado?"
+    },
+    {
+        "target_text": "Silverado is a action."
+    },
+    {
+        "input_text": "what genres is the movie Simone?"
+    },
+    {
+        "target_text": "Simone is a short."
+    },
+    {
+        "input_text": "what genres is the movie The sixth sense?"
+    },
+    {
+        "target_text": "The sixth sense is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Slash?"
+    },
+    {
+        "target_text": "Slash is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Slither?"
+    },
+    {
+        "target_text": "Slither is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Smokey and the bandit?"
+    },
+    {
+        "target_text": "Smokey and the bandit is a action."
+    },
+    {
+        "input_text": "what genres is the movie Smokin' aces?"
+    },
+    {
+        "target_text": "Smokin' aces is a action."
+    },
+    {
+        "input_text": "what genres is the movie Solaris?"
+    },
+    {
+        "target_text": "Solaris is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Someone to watch over me?"
+    },
+    {
+        "target_text": "Someone to watch over me is a action."
+    },
+    {
+        "input_text": "what genres is the movie Spider-man?"
+    },
+    {
+        "target_text": "Spider-man is a action."
+    },
+    {
+        "input_text": "what genres is the movie Stalag 17?"
+    },
+    {
+        "target_text": "Stalag 17 is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Star trek: generations?"
+    },
+    {
+        "target_text": "Star trek: generations is a action."
+    },
+    {
+        "input_text": "what genres is the movie Star trek iii: the search for spock?"
+    },
+    {
+        "target_text": "Star trek iii: the search for spock is a action."
+    },
+    {
+        "input_text": "what genres is the movie Star trek: the wrath of khan?"
+    },
+    {
+        "target_text": "Star trek: the wrath of khan is a action."
+    },
+    {
+        "input_text": "what genres is the movie Star trek iv: the voyage home?"
+    },
+    {
+        "target_text": "Star trek iv: the voyage home is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Star trek: insurrection?"
+    },
+    {
+        "target_text": "Star trek: insurrection is a action."
+    },
+    {
+        "input_text": "what genres is the movie Star trek: first contact?"
+    },
+    {
+        "target_text": "Star trek: first contact is a action."
+    },
+    {
+        "input_text": "what genres is the movie Star trek vi: the undiscovered country?"
+    },
+    {
+        "target_text": "Star trek vi: the undiscovered country is a action."
+    },
+    {
+        "input_text": "what genres is the movie Star trek: nemesis?"
+    },
+    {
+        "target_text": "Star trek: nemesis is a action."
+    },
+    {
+        "input_text": "what genres is the movie Starman?"
+    },
+    {
+        "target_text": "Starman is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Strange days?"
+    },
+    {
+        "target_text": "Strange days is a action."
+    },
+    {
+        "input_text": "what genres is the movie Suspect zero?"
+    },
+    {
+        "target_text": "Suspect zero is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Swingers?"
+    },
+    {
+        "target_text": "Swingers is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The godfather?"
+    },
+    {
+        "target_text": "The godfather is a crime."
+    },
+    {
+        "input_text": "what genres is the movie The talented mr. ripley?"
+    },
+    {
+        "target_text": "The talented mr. ripley is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Taxi driver?"
+    },
+    {
+        "target_text": "Taxi driver is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The rock?"
+    },
+    {
+        "target_text": "The rock is a action."
+    },
+    {
+        "input_text": "what genres is the movie The majestic?"
+    },
+    {
+        "target_text": "The majestic is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The birds?"
+    },
+    {
+        "target_text": "The birds is a horror."
+    },
+    {
+        "input_text": "what genres is the movie The body snatcher?"
+    },
+    {
+        "target_text": "The body snatcher is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The crow: salvation?"
+    },
+    {
+        "target_text": "The crow: salvation is a action."
+    },
+    {
+        "input_text": "what genres is the movie The day the earth stood still?"
+    },
+    {
+        "target_text": "The day the earth stood still is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The lost boys?"
+    },
+    {
+        "target_text": "The lost boys is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The thing?"
+    },
+    {
+        "target_text": "The thing is a horror."
+    },
+    {
+        "input_text": "what genres is the movie The time machine?"
+    },
+    {
+        "target_text": "The time machine is a sci-fi."
+    },
+    {
+        "input_text": "what genres is the movie The jacket?"
+    },
+    {
+        "target_text": "The jacket is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Thelma & louise?"
+    },
+    {
+        "target_text": "Thelma & louise is a crime."
+    },
+    {
+        "input_text": "what genres is the movie There's something about mary?"
+    },
+    {
+        "target_text": "There's something about mary is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Thirteen days?"
+    },
+    {
+        "target_text": "Thirteen days is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Thunderheart?"
+    },
+    {
+        "target_text": "Thunderheart is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Top gun?"
+    },
+    {
+        "target_text": "Top gun is a action."
+    },
+    {
+        "input_text": "what genres is the movie Total recall?"
+    },
+    {
+        "target_text": "Total recall is a action."
+    },
+    {
+        "input_text": "what genres is the movie Tremors?"
+    },
+    {
+        "target_text": "Tremors is a action."
+    },
+    {
+        "input_text": "what genres is the movie True believer?"
+    },
+    {
+        "target_text": "True believer is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Twin peaks: fire walk with me?"
+    },
+    {
+        "target_text": "Twin peaks: fire walk with me is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The verdict?"
+    },
+    {
+        "target_text": "The verdict is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie The war of the worlds?"
+    },
+    {
+        "target_text": "The war of the worlds is a action."
+    },
+    {
+        "input_text": "what genres is the movie New nightmare?"
+    },
+    {
+        "target_text": "New nightmare is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie White squall?"
+    },
+    {
+        "target_text": "White squall is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Wild at heart?"
+    },
+    {
+        "target_text": "Wild at heart is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Wonder boys?"
+    },
+    {
+        "target_text": "Wonder boys is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The woodsman?"
+    },
+    {
+        "target_text": "The woodsman is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie The abyss?"
+    },
+    {
+        "target_text": "The abyss is a action."
+    },
+    {
+        "input_text": "what genres is the movie L'avventura?"
+    },
+    {
+        "target_text": "L'avventura is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Agnes of god?"
+    },
+    {
+        "target_text": "Agnes of god is a drama."
+    },
+    {
+        "input_text": "what genres is the movie A hard day's night?"
+    },
+    {
+        "target_text": "A hard day's night is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Alien?"
+    },
+    {
+        "target_text": "Alien is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Alien vs. predator?"
+    },
+    {
+        "target_text": "Alien vs. predator is a action."
+    },
+    {
+        "input_text": "what genres is the movie All about eve?"
+    },
+    {
+        "target_text": "All about eve is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie All the president's men?"
+    },
+    {
+        "target_text": "All the president's men is a drama."
+    },
+    {
+        "input_text": "what genres is the movie American pie?"
+    },
+    {
+        "target_text": "American pie is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie An american werewolf in paris?"
+    },
+    {
+        "target_text": "An american werewolf in paris is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Anastasia?"
+    },
+    {
+        "target_text": "Anastasia is a animation."
+    },
+    {
+        "input_text": "what genres is the movie Annie hall?"
+    },
+    {
+        "target_text": "Annie hall is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The anniversary party?"
+    },
+    {
+        "target_text": "The anniversary party is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Antz?"
+    },
+    {
+        "target_text": "Antz is a animation."
+    },
+    {
+        "input_text": "what genres is the movie The apartment?"
+    },
+    {
+        "target_text": "The apartment is a romance."
+    },
+    {
+        "input_text": "what genres is the movie Apocalypse now?"
+    },
+    {
+        "target_text": "Apocalypse now is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Arctic blue?"
+    },
+    {
+        "target_text": "Arctic blue is a action."
+    },
+    {
+        "input_text": "what genres is the movie As good as it gets?"
+    },
+    {
+        "target_text": "As good as it gets is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Assassins?"
+    },
+    {
+        "target_text": "Assassins is a action."
+    },
+    {
+        "input_text": "what genres is the movie Asylum?"
+    },
+    {
+        "target_text": "Asylum is a drama."
+    },
+    {
+        "input_text": "what genres is the movie A walk to remember?"
+    },
+    {
+        "target_text": "A walk to remember is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Back to the future?"
+    },
+    {
+        "target_text": "Back to the future is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Badlands?"
+    },
+    {
+        "target_text": "Badlands is a crime."
+    },
+    {
+        "input_text": "what genres is the movie The adventures of buckaroo banzai across the 8th dimension?"
+    },
+    {
+        "target_text": "The adventures of buckaroo banzai across the 8th dimension is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Barton fink?"
+    },
+    {
+        "target_text": "Barton fink is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Basic instinct?"
+    },
+    {
+        "target_text": "Basic instinct is a mystery."
+    },
+    {
+        "input_text": "what genres is the movie Basquiat?"
+    },
+    {
+        "target_text": "Basquiat is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Batman returns?"
+    },
+    {
+        "target_text": "Batman returns is a action."
+    },
+    {
+        "input_text": "what genres is the movie Batman and robin?"
+    },
+    {
+        "target_text": "Batman and robin is a action."
+    },
+    {
+        "input_text": "what genres is the movie Batman forever?"
+    },
+    {
+        "target_text": "Batman forever is a action."
+    },
+    {
+        "input_text": "what genres is the movie Batman?"
+    },
+    {
+        "target_text": "Batman is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Bean?"
+    },
+    {
+        "target_text": "Bean is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Beavis and butt-head do america?"
+    },
+    {
+        "target_text": "Beavis and butt-head do america is a animation."
+    },
+    {
+        "input_text": "what genres is the movie Beetle juice?"
+    },
+    {
+        "target_text": "Beetle juice is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Being there?"
+    },
+    {
+        "target_text": "Being there is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Being john malkovich?"
+    },
+    {
+        "target_text": "Being john malkovich is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Beloved?"
+    },
+    {
+        "target_text": "Beloved is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The big lebowski?"
+    },
+    {
+        "target_text": "The big lebowski is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The black dahlia?"
+    },
+    {
+        "target_text": "The black dahlia is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Blade ii?"
+    },
+    {
+        "target_text": "Blade ii is a action."
+    },
+    {
+        "input_text": "what genres is the movie Blade?"
+    },
+    {
+        "target_text": "Blade is a action."
+    },
+    {
+        "input_text": "what genres is the movie Book of shadows: blair witch 2?"
+    },
+    {
+        "target_text": "Book of shadows: blair witch 2 is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Blood simple.?"
+    },
+    {
+        "target_text": "Blood simple. is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Bloodmoon?"
+    },
+    {
+        "target_text": "Bloodmoon is a action."
+    },
+    {
+        "input_text": "what genres is the movie Blow?"
+    },
+    {
+        "target_text": "Blow is a biography."
+    },
+    {
+        "input_text": "what genres is the movie La battaglia di algeri?"
+    },
+    {
+        "target_text": "La battaglia di algeri is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Body of evidence?"
+    },
+    {
+        "target_text": "Body of evidence is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The bridges of madison county?"
+    },
+    {
+        "target_text": "The bridges of madison county is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Bones?"
+    },
+    {
+        "target_text": "Bones is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Bound?"
+    },
+    {
+        "target_text": "Bound is a crime."
+    },
+    {
+        "input_text": "what genres is the movie The bourne identity?"
+    },
+    {
+        "target_text": "The bourne identity is a action."
+    },
+    {
+        "input_text": "what genres is the movie Brazil?"
+    },
+    {
+        "target_text": "Brazil is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Bringing out the dead?"
+    },
+    {
+        "target_text": "Bringing out the dead is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Broadcast news?"
+    },
+    {
+        "target_text": "Broadcast news is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie A bucket of blood?"
+    },
+    {
+        "target_text": "A bucket of blood is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Buffy the vampire slayer?"
+    },
+    {
+        "target_text": "Buffy the vampire slayer is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Bull durham?"
+    },
+    {
+        "target_text": "Bull durham is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Casino?"
+    },
+    {
+        "target_text": "Casino is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Catwoman?"
+    },
+    {
+        "target_text": "Catwoman is a action."
+    },
+    {
+        "input_text": "what genres is the movie Cellular?"
+    },
+    {
+        "target_text": "Cellular is a action."
+    },
+    {
+        "input_text": "what genres is the movie The crying game?"
+    },
+    {
+        "target_text": "The crying game is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Charade?"
+    },
+    {
+        "target_text": "Charade is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Cherry falls?"
+    },
+    {
+        "target_text": "Cherry falls is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Chill factor?"
+    },
+    {
+        "target_text": "Chill factor is a action."
+    },
+    {
+        "input_text": "what genres is the movie Chinatown?"
+    },
+    {
+        "target_text": "Chinatown is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Nuovo cinema paradiso?"
+    },
+    {
+        "target_text": "Nuovo cinema paradiso is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Citizen kane?"
+    },
+    {
+        "target_text": "Citizen kane is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Clerks.?"
+    },
+    {
+        "target_text": "Clerks. is a comedy\n."
+    },
+    {
+        "input_text": "what genres is the movie Cliffhanger?"
+    },
+    {
+        "target_text": "Cliffhanger is a action."
+    },
+    {
+        "input_text": "what genres is the movie A clockwork orange?"
+    },
+    {
+        "target_text": "A clockwork orange is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Collateral?"
+    },
+    {
+        "target_text": "Collateral is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Conspiracy theory?"
+    },
+    {
+        "target_text": "Conspiracy theory is a action."
+    },
+    {
+        "input_text": "what genres is the movie Contact?"
+    },
+    {
+        "target_text": "Contact is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Cool hand luke?"
+    },
+    {
+        "target_text": "Cool hand luke is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Copycat?"
+    },
+    {
+        "target_text": "Copycat is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Crash?"
+    },
+    {
+        "target_text": "Crash is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Crazy love?"
+    },
+    {
+        "target_text": "Crazy love is a documentary\n."
+    },
+    {
+        "input_text": "what genres is the movie Crime spree?"
+    },
+    {
+        "target_text": "Crime spree is a action."
+    },
+    {
+        "input_text": "what genres is the movie Crouching tiger, hidden dragon?"
+    },
+    {
+        "target_text": "Crouching tiger, hidden dragon is a action\n."
+    },
+    {
+        "input_text": "what genres is the movie The crow?"
+    },
+    {
+        "target_text": "The crow is a action."
+    },
+    {
+        "input_text": "what genres is the movie Cruel intentions?"
+    },
+    {
+        "target_text": "Cruel intentions is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The curse of the cat people?"
+    },
+    {
+        "target_text": "The curse of the cat people is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The curse?"
+    },
+    {
+        "target_text": "The curse is a sci-fi."
+    },
+    {
+        "input_text": "what genres is the movie Dark city?"
+    },
+    {
+        "target_text": "Dark city is a mystery."
+    },
+    {
+        "input_text": "what genres is the movie Dave?"
+    },
+    {
+        "target_text": "Dave is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Day of the dead?"
+    },
+    {
+        "target_text": "Day of the dead is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Dead poets society?"
+    },
+    {
+        "target_text": "Dead poets society is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Deep rising?"
+    },
+    {
+        "target_text": "Deep rising is a action."
+    },
+    {
+        "input_text": "what genres is the movie The deer hunter?"
+    },
+    {
+        "target_text": "The deer hunter is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Demolition man?"
+    },
+    {
+        "target_text": "Demolition man is a action."
+    },
+    {
+        "input_text": "what genres is the movie The devil and daniel webster?"
+    },
+    {
+        "target_text": "The devil and daniel webster is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Die hard?"
+    },
+    {
+        "target_text": "Die hard is a action."
+    },
+    {
+        "input_text": "what genres is the movie Dog day afternoon?"
+    },
+    {
+        "target_text": "Dog day afternoon is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Domino?"
+    },
+    {
+        "target_text": "Domino is a action."
+    },
+    {
+        "input_text": "what genres is the movie Do the right thing?"
+    },
+    {
+        "target_text": "Do the right thing is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Dumb and dumberer: when harry met lloyd?"
+    },
+    {
+        "target_text": "Dumb and dumberer: when harry met lloyd is a comedy\n."
+    },
+    {
+        "input_text": "what genres is the movie Dune?"
+    },
+    {
+        "target_text": "Dune is a action."
+    },
+    {
+        "input_text": "what genres is the movie Ed wood?"
+    },
+    {
+        "target_text": "Ed wood is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Edtv?"
+    },
+    {
+        "target_text": "Edtv is a comedy\n."
+    },
+    {
+        "input_text": "what genres is the movie Election?"
+    },
+    {
+        "target_text": "Election is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie L.a. confidential?"
+    },
+    {
+        "target_text": "L.a. confidential is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Enemy of the state?"
+    },
+    {
+        "target_text": "Enemy of the state is a action."
+    },
+    {
+        "input_text": "what genres is the movie The english patient?"
+    },
+    {
+        "target_text": "The english patient is a romance."
+    },
+    {
+        "input_text": "what genres is the movie Entrapment?"
+    },
+    {
+        "target_text": "Entrapment is a action."
+    },
+    {
+        "input_text": "what genres is the movie Erin brockovich?"
+    },
+    {
+        "target_text": "Erin brockovich is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Star wars: the empire strikes back?"
+    },
+    {
+        "target_text": "Star wars: the empire strikes back is a animation."
+    },
+    {
+        "input_text": "what genres is the movie Escape from the planet of the apes?"
+    },
+    {
+        "target_text": "Escape from the planet of the apes is a sci-fi."
+    },
+    {
+        "input_text": "what genres is the movie Escape from l.a.?"
+    },
+    {
+        "target_text": "Escape from l.a. is a action."
+    },
+    {
+        "input_text": "what genres is the movie Excalibur?"
+    },
+    {
+        "target_text": "Excalibur is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie The exorcist?"
+    },
+    {
+        "target_text": "The exorcist is a horror."
+    },
+    {
+        "input_text": "what genres is the movie The fabulous baker boys?"
+    },
+    {
+        "target_text": "The fabulous baker boys is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Face/off?"
+    },
+    {
+        "target_text": "Face/off is a action."
+    },
+    {
+        "input_text": "what genres is the movie The family man?"
+    },
+    {
+        "target_text": "The family man is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The fantastic four?"
+    },
+    {
+        "target_text": "The fantastic four is a action."
+    },
+    {
+        "input_text": "what genres is the movie Fantastic voyage?"
+    },
+    {
+        "target_text": "Fantastic voyage is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Fargo?"
+    },
+    {
+        "target_text": "Fargo is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Fight club?"
+    },
+    {
+        "target_text": "Fight club is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Final destination 2?"
+    },
+    {
+        "target_text": "Final destination 2 is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Final destination?"
+    },
+    {
+        "target_text": "Final destination is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Rambo: first blood part ii?"
+    },
+    {
+        "target_text": "Rambo: first blood part ii is a action."
+    },
+    {
+        "input_text": "what genres is the movie The fisher king?"
+    },
+    {
+        "target_text": "The fisher king is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Five easy pieces?"
+    },
+    {
+        "target_text": "Five easy pieces is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Five feet high and rising?"
+    },
+    {
+        "target_text": "Five feet high and rising is a short\n."
+    },
+    {
+        "input_text": "what genres is the movie Fletch?"
+    },
+    {
+        "target_text": "Fletch is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The adventures of ford fairlane?"
+    },
+    {
+        "target_text": "The adventures of ford fairlane is a action."
+    },
+    {
+        "input_text": "what genres is the movie The french connection?"
+    },
+    {
+        "target_text": "The french connection is a action."
+    },
+    {
+        "input_text": "what genres is the movie Frequency?"
+    },
+    {
+        "target_text": "Frequency is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Friday the 13th part iii?"
+    },
+    {
+        "target_text": "Friday the 13th part iii is a horror\n."
+    },
+    {
+        "input_text": "what genres is the movie Jason lives: friday the 13th part vi?"
+    },
+    {
+        "target_text": "Jason lives: friday the 13th part vi is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Jason goes to hell: the final friday?"
+    },
+    {
+        "target_text": "Jason goes to hell: the final friday is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Friday the 13th part viii: jason takes manhattan?"
+    },
+    {
+        "target_text": "Friday the 13th part viii: jason takes manhattan is a horror\n."
+    },
+    {
+        "input_text": "what genres is the movie Game 6?"
+    },
+    {
+        "target_text": "Game 6 is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Gandhi?"
+    },
+    {
+        "target_text": "Gandhi is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Gattaca?"
+    },
+    {
+        "target_text": "Gattaca is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The getaway?"
+    },
+    {
+        "target_text": "The getaway is a action."
+    },
+    {
+        "input_text": "what genres is the movie Get carter?"
+    },
+    {
+        "target_text": "Get carter is a action."
+    },
+    {
+        "input_text": "what genres is the movie Glengarry glen ross?"
+    },
+    {
+        "target_text": "Glengarry glen ross is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie The godfather: part ii?"
+    },
+    {
+        "target_text": "The godfather: part ii is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Gods and monsters?"
+    },
+    {
+        "target_text": "Gods and monsters is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Gone in sixty seconds?"
+    },
+    {
+        "target_text": "Gone in sixty seconds is a action."
+    },
+    {
+        "input_text": "what genres is the movie Goodfellas?"
+    },
+    {
+        "target_text": "Goodfellas is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Good will hunting?"
+    },
+    {
+        "target_text": "Good will hunting is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie The grapes of wrath?"
+    },
+    {
+        "target_text": "The grapes of wrath is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Grosse pointe blank?"
+    },
+    {
+        "target_text": "Grosse pointe blank is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The horse whisperer?"
+    },
+    {
+        "target_text": "The horse whisperer is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Hackers?"
+    },
+    {
+        "target_text": "Hackers is a action."
+    },
+    {
+        "input_text": "what genres is the movie Halloween 4: the return of michael myers?"
+    },
+    {
+        "target_text": "Halloween 4: the return of michael myers is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Halloween?"
+    },
+    {
+        "target_text": "Halloween is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Hannah and her sisters?"
+    },
+    {
+        "target_text": "Hannah and her sisters is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Hannibal?"
+    },
+    {
+        "target_text": "Hannibal is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Happy campers?"
+    },
+    {
+        "target_text": "Happy campers is a comedy\n."
+    },
+    {
+        "input_text": "what genres is the movie Heathers?"
+    },
+    {
+        "target_text": "Heathers is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Heavenly creatures?"
+    },
+    {
+        "target_text": "Heavenly creatures is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Hellraiser: hellseeker?"
+    },
+    {
+        "target_text": "Hellraiser: hellseeker is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Hero?"
+    },
+    {
+        "target_text": "Hero is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Hider in the house?"
+    },
+    {
+        "target_text": "Hider in the house is a thriller\n."
+    },
+    {
+        "input_text": "what genres is the movie Highlander iii: the sorcerer?"
+    },
+    {
+        "target_text": "Highlander iii: the sorcerer is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie Hostage?"
+    },
+    {
+        "target_text": "Hostage is a action."
+    },
+    {
+        "input_text": "what genres is the movie Hotel rwanda?"
+    },
+    {
+        "target_text": "Hotel rwanda is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie House on haunted hill?"
+    },
+    {
+        "target_text": "House on haunted hill is a horror."
+    },
+    {
+        "input_text": "what genres is the movie House of the damned?"
+    },
+    {
+        "target_text": "House of the damned is a action."
+    },
+    {
+        "input_text": "what genres is the movie Hellraiser iii: hell on earth?"
+    },
+    {
+        "target_text": "Hellraiser iii: hell on earth is a horror\n."
+    },
+    {
+        "input_text": "what genres is the movie Hudson hawk?"
+    },
+    {
+        "target_text": "Hudson hawk is a action."
+    },
+    {
+        "input_text": "what genres is the movie The hudsucker proxy?"
+    },
+    {
+        "target_text": "The hudsucker proxy is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie I walked with a zombie?"
+    },
+    {
+        "target_text": "I walked with a zombie is a horror\n."
+    },
+    {
+        "input_text": "what genres is the movie The ice storm?"
+    },
+    {
+        "target_text": "The ice storm is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Insomnia?"
+    },
+    {
+        "target_text": "Insomnia is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Interview with the vampire: the vampire chronicles?"
+    },
+    {
+        "target_text": "Interview with the vampire: the vampire chronicles is a drama."
+    },
+    {
+        "input_text": "what genres is the movie I still know what you did last summer?"
+    },
+    {
+        "target_text": "I still know what you did last summer is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Isle of the dead?"
+    },
+    {
+        "target_text": "Isle of the dead is a drama."
+    },
+    {
+        "input_text": "what genres is the movie It's a wonderful life?"
+    },
+    {
+        "target_text": "It's a wonderful life is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Jaws 2?"
+    },
+    {
+        "target_text": "Jaws 2 is a thriller\n."
+    },
+    {
+        "input_text": "what genres is the movie Jaws 3-d?"
+    },
+    {
+        "target_text": "Jaws 3-d is a thriller\n."
+    },
+    {
+        "input_text": "what genres is the movie Jaws: the revenge?"
+    },
+    {
+        "target_text": "Jaws: the revenge is a thriller\n."
+    },
+    {
+        "input_text": "what genres is the movie The jazz singer?"
+    },
+    {
+        "target_text": "The jazz singer is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Jennifer eight?"
+    },
+    {
+        "target_text": "Jennifer eight is a thriller."
+    },
+    {
+        "input_text": "what genres is the movie Jerry maguire?"
+    },
+    {
+        "target_text": "Jerry maguire is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Jurassic park iii?"
+    },
+    {
+        "target_text": "Jurassic park iii is a action."
+    },
+    {
+        "input_text": "what genres is the movie The lost world: jurassic park?"
+    },
+    {
+        "target_text": "The lost world: jurassic park is a action."
+    },
+    {
+        "input_text": "what genres is the movie Jurassic park?"
+    },
+    {
+        "target_text": "Jurassic park is a action."
+    },
+    {
+        "input_text": "what genres is the movie Freddy vs. jason?"
+    },
+    {
+        "target_text": "Freddy vs. jason is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Kafka?"
+    },
+    {
+        "target_text": "Kafka is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie King kong?"
+    },
+    {
+        "target_text": "King kong is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Klute?"
+    },
+    {
+        "target_text": "Klute is a mystery."
+    },
+    {
+        "input_text": "what genres is the movie Kramer vs. kramer?"
+    },
+    {
+        "target_text": "Kramer vs. kramer is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Kundun?"
+    },
+    {
+        "target_text": "Kundun is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Lake placid?"
+    },
+    {
+        "target_text": "Lake placid is a action."
+    },
+    {
+        "input_text": "what genres is the movie The silence of the lambs?"
+    },
+    {
+        "target_text": "The silence of the lambs is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Last of the mohicans?"
+    },
+    {
+        "target_text": "Last of the mohicans is a action."
+    },
+    {
+        "input_text": "what genres is the movie Leviathan?"
+    },
+    {
+        "target_text": "Leviathan is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Lock, stock and two smoking barrels?"
+    },
+    {
+        "target_text": "Lock, stock and two smoking barrels is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Lone star?"
+    },
+    {
+        "target_text": "Lone star is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Lord of illusions?"
+    },
+    {
+        "target_text": "Lord of illusions is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie Lost in translation?"
+    },
+    {
+        "target_text": "Lost in translation is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Lost souls?"
+    },
+    {
+        "target_text": "Lost souls is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Love & basketball?"
+    },
+    {
+        "target_text": "Love & basketball is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Magnolia?"
+    },
+    {
+        "target_text": "Magnolia is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie The man in the iron mask?"
+    },
+    {
+        "target_text": "The man in the iron mask is a action."
+    },
+    {
+        "input_text": "what genres is the movie Manhunt?"
+    },
+    {
+        "target_text": "Manhunt is a action."
+    },
+    {
+        "input_text": "what genres is the movie Manhunter?"
+    },
+    {
+        "target_text": "Manhunter is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Man on the moon?"
+    },
+    {
+        "target_text": "Man on the moon is a biography."
+    },
+    {
+        "input_text": "what genres is the movie The matrix?"
+    },
+    {
+        "target_text": "The matrix is a action."
+    },
+    {
+        "input_text": "what genres is the movie Halloween iii: season of the witch?"
+    },
+    {
+        "target_text": "Halloween iii: season of the witch is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Meet joe black?"
+    },
+    {
+        "target_text": "Meet joe black is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Memento?"
+    },
+    {
+        "target_text": "Memento is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Miami vice?"
+    },
+    {
+        "target_text": "Miami vice is a action."
+    },
+    {
+        "input_text": "what genres is the movie Midnight cowboy?"
+    },
+    {
+        "target_text": "Midnight cowboy is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Midnight express?"
+    },
+    {
+        "target_text": "Midnight express is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Mimic?"
+    },
+    {
+        "target_text": "Mimic is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Misery?"
+    },
+    {
+        "target_text": "Misery is a thriller\n."
+    },
+    {
+        "input_text": "what genres is the movie Mission: impossible ii?"
+    },
+    {
+        "target_text": "Mission: impossible ii is a action."
+    },
+    {
+        "input_text": "what genres is the movie Mission: impossible?"
+    },
+    {
+        "target_text": "Mission: impossible is a action."
+    },
+    {
+        "input_text": "what genres is the movie Moonstruck?"
+    },
+    {
+        "target_text": "Moonstruck is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Monty python and the holy grail?"
+    },
+    {
+        "target_text": "Monty python and the holy grail is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Mrs brown?"
+    },
+    {
+        "target_text": "Mrs brown is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Arcade?"
+    },
+    {
+        "target_text": "Arcade is a sci-fi\n."
+    },
+    {
+        "input_text": "what genres is the movie Mulholland dr.?"
+    },
+    {
+        "target_text": "Mulholland dr. is a drama."
+    },
+    {
+        "input_text": "what genres is the movie \"murderland\"?"
+    },
+    {
+        "target_text": "\"murderland\" is a crime."
+    },
+    {
+        "input_text": "what genres is the movie My girl 2?"
+    },
+    {
+        "target_text": "My girl 2 is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie My girl?"
+    },
+    {
+        "target_text": "My girl is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie My best friend's wedding?"
+    },
+    {
+        "target_text": "My best friend's wedding is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Nashville?"
+    },
+    {
+        "target_text": "Nashville is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Natural born killers?"
+    },
+    {
+        "target_text": "Natural born killers is a action."
+    },
+    {
+        "input_text": "what genres is the movie Nothing but a man?"
+    },
+    {
+        "target_text": "Nothing but a man is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The negotiator?"
+    },
+    {
+        "target_text": "The negotiator is a action."
+    },
+    {
+        "input_text": "what genres is the movie Neuromancer?"
+    },
+    {
+        "target_text": "Neuromancer is a action."
+    },
+    {
+        "input_text": "what genres is the movie Never been kissed?"
+    },
+    {
+        "target_text": "Never been kissed is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The nightmare before christmas?"
+    },
+    {
+        "target_text": "The nightmare before christmas is a animation."
+    },
+    {
+        "input_text": "what genres is the movie A nightmare on elm street part 2: freddy's revenge?"
+    },
+    {
+        "target_text": "A nightmare on elm street part 2: freddy's revenge is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie A nightmare on elm street 3: dream warriors?"
+    },
+    {
+        "target_text": "A nightmare on elm street 3: dream warriors is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie Notting hill?"
+    },
+    {
+        "target_text": "Notting hill is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie One flew over the cuckoo's nest?"
+    },
+    {
+        "target_text": "One flew over the cuckoo's nest is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Only you?"
+    },
+    {
+        "target_text": "Only you is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie On the waterfront?"
+    },
+    {
+        "target_text": "On the waterfront is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Orgy of the dead?"
+    },
+    {
+        "target_text": "Orgy of the dead is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie Out of sight?"
+    },
+    {
+        "target_text": "Out of sight is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Pearl harbor?"
+    },
+    {
+        "target_text": "Pearl harbor is a action."
+    },
+    {
+        "input_text": "what genres is the movie Peggy sue got married?"
+    },
+    {
+        "target_text": "Peggy sue got married is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Pet sematary ii?"
+    },
+    {
+        "target_text": "Pet sematary ii is a action."
+    },
+    {
+        "input_text": "what genres is the movie Philadelphia?"
+    },
+    {
+        "target_text": "Philadelphia is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Pitch black?"
+    },
+    {
+        "target_text": "Pitch black is a action."
+    },
+    {
+        "input_text": "what genres is the movie Planet of the apes?"
+    },
+    {
+        "target_text": "Planet of the apes is a action."
+    },
+    {
+        "input_text": "what genres is the movie Platoon?"
+    },
+    {
+        "target_text": "Platoon is a action."
+    },
+    {
+        "input_text": "what genres is the movie Playback?"
+    },
+    {
+        "target_text": "Playback is a thriller\n."
+    },
+    {
+        "input_text": "what genres is the movie The ploughman's lunch?"
+    },
+    {
+        "target_text": "The ploughman's lunch is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Point break?"
+    },
+    {
+        "target_text": "Point break is a action."
+    },
+    {
+        "input_text": "what genres is the movie Predator?"
+    },
+    {
+        "target_text": "Predator is a action."
+    },
+    {
+        "input_text": "what genres is the movie Pretty woman?"
+    },
+    {
+        "target_text": "Pretty woman is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The princess bride?"
+    },
+    {
+        "target_text": "The princess bride is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie The producers?"
+    },
+    {
+        "target_text": "The producers is a comedy\n."
+    },
+    {
+        "input_text": "what genres is the movie Psycho?"
+    },
+    {
+        "target_text": "Psycho is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Maniac?"
+    },
+    {
+        "target_text": "Maniac is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Vampyr?"
+    },
+    {
+        "target_text": "Vampyr is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie Mystery of the wax museum?"
+    },
+    {
+        "target_text": "Mystery of the wax museum is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Quantum project?"
+    },
+    {
+        "target_text": "Quantum project is a short."
+    },
+    {
+        "input_text": "what genres is the movie Rambling rose?"
+    },
+    {
+        "target_text": "Rambling rose is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Red white black & blue?"
+    },
+    {
+        "target_text": "Red white black & blue is a documentary\n."
+    },
+    {
+        "input_text": "what genres is the movie Star wars: episode vi - return of the jedi?"
+    },
+    {
+        "target_text": "Star wars: episode vi - return of the jedi is a action."
+    },
+    {
+        "input_text": "what genres is the movie The rocky horror picture show?"
+    },
+    {
+        "target_text": "The rocky horror picture show is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Rocky?"
+    },
+    {
+        "target_text": "Rocky is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Who framed roger rabbit?"
+    },
+    {
+        "target_text": "Who framed roger rabbit is a animation."
+    },
+    {
+        "input_text": "what genres is the movie Romeo and juliet?"
+    },
+    {
+        "target_text": "Romeo and juliet is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Ronin?"
+    },
+    {
+        "target_text": "Ronin is a action."
+    },
+    {
+        "input_text": "what genres is the movie Route 9?"
+    },
+    {
+        "target_text": "Route 9 is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Rush hour 2?"
+    },
+    {
+        "target_text": "Rush hour 2 is a action."
+    },
+    {
+        "input_text": "what genres is the movie Rush hour?"
+    },
+    {
+        "target_text": "Rush hour is a action."
+    },
+    {
+        "input_text": "what genres is the movie Runaway bride?"
+    },
+    {
+        "target_text": "Runaway bride is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Sleepless in seattle?"
+    },
+    {
+        "target_text": "Sleepless in seattle is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Salt of the earth?"
+    },
+    {
+        "target_text": "Salt of the earth is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The salton sea?"
+    },
+    {
+        "target_text": "The salton sea is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Saving private ryan?"
+    },
+    {
+        "target_text": "Saving private ryan is a action."
+    },
+    {
+        "input_text": "what genres is the movie Say anything...?"
+    },
+    {
+        "target_text": "Say anything... is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Schindler's list?"
+    },
+    {
+        "target_text": "Schindler's list is a biography."
+    },
+    {
+        "input_text": "what genres is the movie Scream 2?"
+    },
+    {
+        "target_text": "Scream 2 is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Scream 3?"
+    },
+    {
+        "target_text": "Scream 3 is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Scream?"
+    },
+    {
+        "target_text": "Scream is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Seven?"
+    },
+    {
+        "target_text": "Seven is a action."
+    },
+    {
+        "input_text": "what genres is the movie The searchers?"
+    },
+    {
+        "target_text": "The searchers is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Seven days to live?"
+    },
+    {
+        "target_text": "Seven days to live is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Shakespeare in love?"
+    },
+    {
+        "target_text": "Shakespeare in love is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Shallow grave?"
+    },
+    {
+        "target_text": "Shallow grave is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Shampoo?"
+    },
+    {
+        "target_text": "Shampoo is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The shining?"
+    },
+    {
+        "target_text": "The shining is a horror."
+    },
+    {
+        "input_text": "what genres is the movie Silver bullet?"
+    },
+    {
+        "target_text": "Silver bullet is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie Sister act?"
+    },
+    {
+        "target_text": "Sister act is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Sleepy hollow?"
+    },
+    {
+        "target_text": "Sleepy hollow is a fantasy."
+    },
+    {
+        "input_text": "what genres is the movie Sling blade?"
+    },
+    {
+        "target_text": "Sling blade is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Smoke?"
+    },
+    {
+        "target_text": "Smoke is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Snow falling on cedars?"
+    },
+    {
+        "target_text": "Snow falling on cedars is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Soldier?"
+    },
+    {
+        "target_text": "Soldier is a action."
+    },
+    {
+        "input_text": "what genres is the movie Some like it hot?"
+    },
+    {
+        "target_text": "Some like it hot is a comedy\n."
+    },
+    {
+        "input_text": "what genres is the movie The wedding date?"
+    },
+    {
+        "target_text": "The wedding date is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Sounder?"
+    },
+    {
+        "target_text": "Sounder is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie South park: bigger longer & uncut?"
+    },
+    {
+        "target_text": "South park: bigger longer & uncut is a animation."
+    },
+    {
+        "input_text": "what genres is the movie Spacejacked?"
+    },
+    {
+        "target_text": "Spacejacked is a action."
+    },
+    {
+        "input_text": "what genres is the movie Spare me?"
+    },
+    {
+        "target_text": "Spare me is a thriller\n."
+    },
+    {
+        "input_text": "what genres is the movie Sphere?"
+    },
+    {
+        "target_text": "Sphere is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Star wars?"
+    },
+    {
+        "target_text": "Star wars is a action."
+    },
+    {
+        "input_text": "what genres is the movie Starship troopers?"
+    },
+    {
+        "target_text": "Starship troopers is a action."
+    },
+    {
+        "input_text": "what genres is the movie Star trek: the motion picture?"
+    },
+    {
+        "target_text": "Star trek: the motion picture is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie State and main?"
+    },
+    {
+        "target_text": "State and main is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Stepmom?"
+    },
+    {
+        "target_text": "Stepmom is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Storytelling?"
+    },
+    {
+        "target_text": "Storytelling is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Stranglehold?"
+    },
+    {
+        "target_text": "Stranglehold is a action."
+    },
+    {
+        "input_text": "what genres is the movie Dr. strangelove or: how i learned to stop worrying and love the bomb?"
+    },
+    {
+        "target_text": "Dr. strangelove or: how i learned to stop worrying and love the bomb is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Suburbia?"
+    },
+    {
+        "target_text": "Suburbia is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Sugar & spice?"
+    },
+    {
+        "target_text": "Sugar & spice is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Sunset blvd.?"
+    },
+    {
+        "target_text": "Sunset blvd. is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Supergirl?"
+    },
+    {
+        "target_text": "Supergirl is a action."
+    },
+    {
+        "input_text": "what genres is the movie Superman iii?"
+    },
+    {
+        "target_text": "Superman iii is a action."
+    },
+    {
+        "input_text": "what genres is the movie Superman ii?"
+    },
+    {
+        "target_text": "Superman ii is a action."
+    },
+    {
+        "input_text": "what genres is the movie Superman iv: the quest for peace?"
+    },
+    {
+        "target_text": "Superman iv: the quest for peace is a action."
+    },
+    {
+        "input_text": "what genres is the movie Superman?"
+    },
+    {
+        "target_text": "Superman is a action."
+    },
+    {
+        "input_text": "what genres is the movie The sweet hereafter?"
+    },
+    {
+        "target_text": "The sweet hereafter is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Sweet smell of success?"
+    },
+    {
+        "target_text": "Sweet smell of success is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Terminator 2: judgment day?"
+    },
+    {
+        "target_text": "Terminator 2: judgment day is a action."
+    },
+    {
+        "input_text": "what genres is the movie Taking sides?"
+    },
+    {
+        "target_text": "Taking sides is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The terminator?"
+    },
+    {
+        "target_text": "The terminator is a action."
+    },
+    {
+        "input_text": "what genres is the movie The game?"
+    },
+    {
+        "target_text": "The game is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The haunting?"
+    },
+    {
+        "target_text": "The haunting is a horror."
+    },
+    {
+        "input_text": "what genres is the movie The limey?"
+    },
+    {
+        "target_text": "The limey is a crime."
+    },
+    {
+        "input_text": "what genres is the movie The man who wasn't there?"
+    },
+    {
+        "target_text": "The man who wasn't there is a crime."
+    },
+    {
+        "input_text": "what genres is the movie The relic?"
+    },
+    {
+        "target_text": "The relic is a horror."
+    },
+    {
+        "input_text": "what genres is the movie The truman show?"
+    },
+    {
+        "target_text": "The truman show is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie The x files?"
+    },
+    {
+        "target_text": "The x files is a crime."
+    },
+    {
+        "input_text": "what genres is the movie The cell?"
+    },
+    {
+        "target_text": "The cell is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The third man?"
+    },
+    {
+        "target_text": "The third man is a film-noir."
+    },
+    {
+        "input_text": "what genres is the movie The beach?"
+    },
+    {
+        "target_text": "The beach is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie The believer?"
+    },
+    {
+        "target_text": "The believer is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Le grand bleu?"
+    },
+    {
+        "target_text": "Le grand bleu is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie The hebrew hammer?"
+    },
+    {
+        "target_text": "The hebrew hammer is a comedy\n."
+    },
+    {
+        "input_text": "what genres is the movie The leopard man?"
+    },
+    {
+        "target_text": "The leopard man is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The lost son?"
+    },
+    {
+        "target_text": "The lost son is a crime."
+    },
+    {
+        "input_text": "what genres is the movie The messenger?"
+    },
+    {
+        "target_text": "The messenger is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The pianist?"
+    },
+    {
+        "target_text": "The pianist is a biography."
+    },
+    {
+        "input_text": "what genres is the movie The piano?"
+    },
+    {
+        "target_text": "The piano is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The sting?"
+    },
+    {
+        "target_text": "The sting is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The thin man?"
+    },
+    {
+        "target_text": "The thin man is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Three kings?"
+    },
+    {
+        "target_text": "Three kings is a action."
+    },
+    {
+        "input_text": "what genres is the movie Thx 1138?"
+    },
+    {
+        "target_text": "Thx 1138 is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Ticker?"
+    },
+    {
+        "target_text": "Ticker is a action."
+    },
+    {
+        "input_text": "what genres is the movie Trouble in paradise?"
+    },
+    {
+        "target_text": "Trouble in paradise is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Titanic?"
+    },
+    {
+        "target_text": "Titanic is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Transatlantic merry-go-round?"
+    },
+    {
+        "target_text": "Transatlantic merry-go-round is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Tombstone?"
+    },
+    {
+        "target_text": "Tombstone is a action."
+    },
+    {
+        "input_text": "what genres is the movie Tomorrow never dies?"
+    },
+    {
+        "target_text": "Tomorrow never dies is a action."
+    },
+    {
+        "input_text": "what genres is the movie To sleep with anger?"
+    },
+    {
+        "target_text": "To sleep with anger is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Toy story?"
+    },
+    {
+        "target_text": "Toy story is a animation."
+    },
+    {
+        "input_text": "what genres is the movie The magic toyshop?"
+    },
+    {
+        "target_text": "The magic toyshop is a fantasy\n."
+    },
+    {
+        "input_text": "what genres is the movie Traffic?"
+    },
+    {
+        "target_text": "Traffic is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Trainspotting?"
+    },
+    {
+        "target_text": "Trainspotting is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Star trek v: the final frontier?"
+    },
+    {
+        "target_text": "Star trek v: the final frontier is a action."
+    },
+    {
+        "input_text": "what genres is the movie Tron?"
+    },
+    {
+        "target_text": "Tron is a action."
+    },
+    {
+        "input_text": "what genres is the movie True lies?"
+    },
+    {
+        "target_text": "True lies is a action."
+    },
+    {
+        "input_text": "what genres is the movie True romance?"
+    },
+    {
+        "target_text": "True romance is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Twelve monkeys?"
+    },
+    {
+        "target_text": "Twelve monkeys is a mystery."
+    },
+    {
+        "input_text": "what genres is the movie U-turn?"
+    },
+    {
+        "target_text": "U-turn is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie U turn?"
+    },
+    {
+        "target_text": "U turn is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Unbreakable?"
+    },
+    {
+        "target_text": "Unbreakable is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Unforgiven?"
+    },
+    {
+        "target_text": "Unforgiven is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The usual suspects?"
+    },
+    {
+        "target_text": "The usual suspects is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Verdict?"
+    },
+    {
+        "target_text": "Verdict is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Vertigo?"
+    },
+    {
+        "target_text": "Vertigo is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Very bad things?"
+    },
+    {
+        "target_text": "Very bad things is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Viridiana?"
+    },
+    {
+        "target_text": "Viridiana is a drama\n."
+    },
+    {
+        "input_text": "what genres is the movie Virtuosity?"
+    },
+    {
+        "target_text": "Virtuosity is a action."
+    },
+    {
+        "input_text": "what genres is the movie Wag the dog?"
+    },
+    {
+        "target_text": "Wag the dog is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Wall street?"
+    },
+    {
+        "target_text": "Wall street is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Waxwork?"
+    },
+    {
+        "target_text": "Waxwork is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie What lies beneath?"
+    },
+    {
+        "target_text": "What lies beneath is a drama."
+    },
+    {
+        "input_text": "what genres is the movie What women want?"
+    },
+    {
+        "target_text": "What women want is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie The witching hour?"
+    },
+    {
+        "target_text": "The witching hour is a documentary."
+    },
+    {
+        "input_text": "what genres is the movie White angel?"
+    },
+    {
+        "target_text": "White angel is a drama."
+    },
+    {
+        "input_text": "what genres is the movie Who's your daddy??"
+    },
+    {
+        "target_text": "Who's your daddy? is a comedy\n."
+    },
+    {
+        "input_text": "what genres is the movie Wild things?"
+    },
+    {
+        "target_text": "Wild things is a crime."
+    },
+    {
+        "input_text": "what genres is the movie Wild wild west?"
+    },
+    {
+        "target_text": "Wild wild west is a action."
+    },
+    {
+        "input_text": "what genres is the movie Willow?"
+    },
+    {
+        "target_text": "Willow is a action."
+    },
+    {
+        "input_text": "what genres is the movie Witness?"
+    },
+    {
+        "target_text": "Witness is a drama."
+    },
+    {
+        "input_text": "what genres is the movie The wizard of oz?"
+    },
+    {
+        "target_text": "The wizard of oz is a adventure."
+    },
+    {
+        "input_text": "what genres is the movie The world is not enough?"
+    },
+    {
+        "target_text": "The world is not enough is a action."
+    },
+    {
+        "input_text": "what genres is the movie Watchmen?"
+    },
+    {
+        "target_text": "Watchmen is a action."
+    },
+    {
+        "input_text": "what genres is the movie Xxx?"
+    },
+    {
+        "target_text": "Xxx is a action."
+    },
+    {
+        "input_text": "what genres is the movie X-men?"
+    },
+    {
+        "target_text": "X-men is a action."
+    },
+    {
+        "input_text": "what genres is the movie Young frankenstein?"
+    },
+    {
+        "target_text": "Young frankenstein is a comedy."
+    },
+    {
+        "input_text": "what genres is the movie Zulu dawn?"
+    },
+    {
+        "target_text": "Zulu dawn is a action."
+    }
+]
