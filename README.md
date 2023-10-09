@@ -79,3 +79,14 @@ Optional:
 - Testing and reults due 10/5/2023
 - Obstacles: the Accelerator gives problems on Coloab
 - GitHub updated with all file
+# meeting #4: 10/06/2023 @ 05:00 PM
+Agenda:
+- Paul presented the pre-trained work done with Hugging Face
+- Adam and Alden presented the question and answer data file produced
+- Discussion on how the pre-trained model is updated with our Q&A data file
+- Paul discussion on the Chabot front-end options
+- Update documentation
+- Update Project Management
+- Next neeting discuss pre-trained progress and front-end Chatbot, also the presentation method
+
+
