@@ -26,7 +26,7 @@ o
 	Note: It is recommended that you follow Garr Reynolds’ adviceLinks to an external site. on how to design effective presentations. Since this presentation is a narrated presentation, it is a best practice to create a script beneath each slide in speaker notes if in PowerPoint or on an external document if screen capturing using other software. The scripts will help you when recording the narration.
 
 # Architecture
-![plot](./images/Architecture.png)
+![plot](./Images/Architecture.png)
 
 # meeting #1: 9/20/2023 @ 4:00 PM
 Agenda:
