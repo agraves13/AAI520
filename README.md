@@ -13,7 +13,7 @@ https://msaai-520-final-project-web-app.vercel.app/
 ### Output: 
 A web or app interface where users can converse with the chatbot.
 # Architecture
-<img src="./Images/Architecture.png" alt="plot" width="200"/>
+<img src="./Images/Architecture.png" alt="plot" width="600"/>
 
 # How to fine tune the LLM
 1. `AAI520_Final_Group_Train_Generation.ipynb` is used to generate the training dataset that is stored in Train.csv
