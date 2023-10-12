@@ -1,4 +1,4 @@
-# AAI520
+# AAI-520 Fall 2023 Group 6
 AAI 520 Final ChatBot Project
 Group 6
 Members: Paul Parks, Alden Caterio, Adam Graves
