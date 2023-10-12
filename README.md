@@ -1,8 +1,12 @@
 # AAI520
 AAI 520 Final ChatBot Project
+
 Group 6
+
 Members: Paul Parks, Alden Caterio, Adam Graves
+
 Due Date: 10/23/2023
+
 
 Try it out: 
 https://msaai-520-final-project-web-app.vercel.app/
