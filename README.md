@@ -13,7 +13,8 @@ https://msaai-520-final-project-web-app.vercel.app/
 ### Output: 
 A web or app interface where users can converse with the chatbot.
 # Architecture
-![plot](./Images/Architecture.png)
+<img src="./Images/Architecture.png" alt="plot" width="200"/>
+
 # How to fine tune the LLM
 1. `AAI520_Final_Group_Train_Generation.ipynb` is used to generate the training dataset that is stored in Train.csv
 2. After creating the Train.csv, `AAI520_Final_Group_AutoTrain_LLM.ipynb` is used to fine tune the Meta LLaMA LLM using the training questions. 
