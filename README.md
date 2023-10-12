@@ -4,10 +4,12 @@ Group 6
 Members: Paul Parks, Alden Caterio, Adam Graves
 Due Date: 10/23/2023
 
-Project Overview:
-Goal: Design and build a chatbot that can carry out multi-turn conversations, adapt to context, and handle a variety of topics.
-Output: A web or app interface where users can converse with the chatbot.
-Deliverables:
+## Project Overview:
+### Goal:
+ Design and build a chatbot that can carry out multi-turn conversations, adapt to context, and handle a variety of topics.
+### Output: 
+A web or app interface where users can converse with the chatbot.
+### Deliverables:
 For the final project submission, it is required to use GitHub. Ensure that you will create a dedicated repository for your project and use this for all your submissions. Embracing this approach will not only streamline our assessment process but will also equip you with a vital skill set valued in the tech industry.
 Your submission within Canvas will contain the following deliverables:
 1.	A link to the final project's GitHub repository.  
@@ -22,6 +24,9 @@ Your submission within Canvas will contain the following deliverables:
 •	
 o	
 	Note: It is recommended that you follow Garr Reynolds’ adviceLinks to an external site. on how to design effective presentations. Since this presentation is a narrated presentation, it is a best practice to create a script beneath each slide in speaker notes if in PowerPoint or on an external document if screen capturing using other software. The scripts will help you when recording the narration.
+
+# Architecture
+![plot](./images/Architecture.png)
 
 # meeting #1: 9/20/2023 @ 4:00 PM
 Agenda:
