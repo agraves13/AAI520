@@ -1,13 +1,13 @@
 # AAI-520 Fall 2023 Group 6
-AAI 520 Final ChatBot Project
-Group 6
-Members: Paul Parks, Alden Caterio, Adam Graves
-Due Date: 10/23/2023
+AAI 520 Final ChatBot Project  
+Group 6  
+Members: Paul Parks, Alden Caterio, Adam Graves  
+Due Date: 10/23/2023  
 
-Demo Chat WebApp: 
+Demo Chat WebApp:  
 https://msaai-520-final-project-web-app.vercel.app/
 
-Fine-tuned model:
+Fine-tuned model:  
 https://huggingface.co/guitarnoob/msaai520_with_HF_format_v1
 
 ## Project Overview:
