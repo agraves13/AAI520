@@ -4,8 +4,11 @@ Group 6
 Members: Paul Parks, Alden Caterio, Adam Graves
 Due Date: 10/23/2023
 
-Try it out: 
+Demo Chat WebApp: 
 https://msaai-520-final-project-web-app.vercel.app/
+
+Fine-tuned model:
+https://huggingface.co/guitarnoob/msaai520_with_HF_format_v1
 
 ## Project Overview:
 ### Goal:
