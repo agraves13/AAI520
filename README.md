@@ -12,30 +12,12 @@ https://msaai-520-final-project-web-app.vercel.app/
  Design and build a chatbot that can carry out multi-turn conversations, adapt to context, and handle a variety of topics.
 ### Output: 
 A web or app interface where users can converse with the chatbot.
-### Deliverables:
-For the final project submission, it is required to use GitHub. Ensure that you will create a dedicated repository for your project and use this for all your submissions. Embracing this approach will not only streamline our assessment process but will also equip you with a vital skill set valued in the tech industry.
-Your submission within Canvas will contain the following deliverables:
-1.	A link to the final project's GitHub repository.  
-2.	A working generative chatbot accessible via Notebook and/or accessible through a web interface (include the link in your submission and report). Your Notebook should be in PDF or HTML format.
-3.	A brief report in PDF detailing:
-•	Challenges faced and solutions implemented.
-•	Model architecture and rationale behind the chosen design.
-•	Evaluation results and user feedback.
-•	Future improvements and scalability options.
-•	Write and submit your final project report in APA 7 style (sample professional paper Download sample professional paper). The final report (without Appendices), including text and selected tables/graphs, should be 3-5 pages. You will use the naming convention Final Project Report-Team Number.pdf (e.g., Final Project Report-Team 1.pdf).
-4.	Presentation: For the completion of your final project, students will be required to prepare and record a presentation Download record a presentationthat unfolds in the form of a captivating story, detailing their development, findings, and any relevant recommendations or conclusions. Visuals are required in the video presentation, which should be 5-7 minutes. A Demo of your chatbot and how it works is recommended. This presentation should also include one slide to showcase your collaborative efforts; you will create a slide highlighting each team member's individual names and their contributions to the final project work and deliverables.
-•	
-o	
-	Note: It is recommended that you follow Garr Reynolds’ adviceLinks to an external site. on how to design effective presentations. Since this presentation is a narrated presentation, it is a best practice to create a script beneath each slide in speaker notes if in PowerPoint or on an external document if screen capturing using other software. The scripts will help you when recording the narration.
-
 # Architecture
 ![plot](./Images/Architecture.png)
-
 # How to fine tune the LLM
 1. `AAI520_Final_Group_Train_Generation.ipynb` is used to generate the training dataset that is stored in Train.csv
 2. After creating the Train.csv, `AAI520_Final_Group_AutoTrain_LLM.ipynb` is used to fine tune the Meta LLaMA LLM using the training questions. 
 3. Finally, the fine tuned LLM can be ran using `AAI520_Final_Group_Inference.ipynb`
-
 # How to run WebApp
 The Next.js webapp is located in ./MSAAI-520-FinalProject-WebApp
 
@@ -49,7 +31,7 @@ pnpm dev
 The WebApp is available for use: 
 https://msaai-520-final-project-web-app.vercel.app/
 
-Note: The LLM is ran using Huggingface Inference Endpoint and may be turned off to not incur any costs. If you would like a demo please reach out to pparks@sandiego.edu
+Note: The LLM is ran using Huggingface Inference Endpoint and may be turned off to not incur any costs. If you would like a demo reach out to pparks@sandiego.edu
 
 # meeting #1: 9/20/2023 @ 4:00 PM
 Agenda:
