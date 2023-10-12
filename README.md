@@ -4,6 +4,9 @@ Group 6
 Members: Paul Parks, Alden Caterio, Adam Graves
 Due Date: 10/23/2023
 
+Try it out: 
+https://msaai-520-final-project-web-app.vercel.app/
+
 ## Project Overview:
 ### Goal:
  Design and build a chatbot that can carry out multi-turn conversations, adapt to context, and handle a variety of topics.
@@ -27,6 +30,26 @@ o
 
 # Architecture
 ![plot](./Images/Architecture.png)
+
+# How to fine tune the LLM
+1. `AAI520_Final_Group_Train_Generation.ipynb` is used to generate the training dataset that is stored in Train.csv
+2. After creating the Train.csv, `AAI520_Final_Group_AutoTrain_LLM.ipynb` is used to fine tune the Meta LLaMA LLM using the training questions. 
+3. Finally, the fine tuned LLM can be ran using `AAI520_Final_Group_Inference.ipynb`
+
+# How to run WebApp
+The Next.js webapp is located in ./MSAAI-520-FinalProject-WebApp
+
+This is a modified version of the Vercel AI Chatbot application: https://github.com/vercel-labs/ai-chatbot
+
+```bash
+pnpm install
+pnpm dev
+```
+
+The WebApp is available for use: 
+https://msaai-520-final-project-web-app.vercel.app/
+
+Note: The LLM is ran using Huggingface Inference Endpoint and may be turned off to not incur any costs. If you would like a demo please reach out to pparks@sandiego.edu
 
 # meeting #1: 9/20/2023 @ 4:00 PM
 Agenda:
