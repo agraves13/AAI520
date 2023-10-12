@@ -19,7 +19,7 @@ A web or app interface where users can converse with the chatbot.
 2. After creating the Train.csv, `AAI520_Final_Group_AutoTrain_LLM.ipynb` is used to fine tune the Meta LLaMA LLM using the training questions. 
 3. Finally, the fine tuned LLM can be ran using `AAI520_Final_Group_Inference.ipynb`
 # How to run WebApp
-The Next.js webapp is located in ./MSAAI-520-FinalProject-WebApp
+The Next.js webapp is located in `./MSAAI-520-FinalProject-WebApp`
 
 This is a modified version of the Vercel AI Chatbot application: https://github.com/vercel-labs/ai-chatbot
 
