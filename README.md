@@ -99,8 +99,15 @@ Agenda:
 - Adam and Alden presented the question and answer data file produced
 - Discussion on how the pre-trained model is updated with our Q&A data file
 - Paul discussion on the Chabot front-end options
-- Update documentation
-- Update Project Management
-- Next neeting discuss pre-trained progress and front-end Chatbot, also the presentation method
+# meeting #5: 10/12/2023 @ 05:00 PM
+Agenda:
+- What is our code? How does it flow and function
+- Who is going to put the entire code together
+- How or can we see a real demo yet
+- Front end GUI
+- Start discussion of final steps including presentation
+- Paul showed the Chatbot front-end: looked great
+- Alden to start the presentation slides
+- Adam to organize the documentation and the code for presentation
 
 
