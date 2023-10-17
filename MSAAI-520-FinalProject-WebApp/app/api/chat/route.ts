@@ -80,7 +80,7 @@ async function* makeIterator(prompt: string) {
     return;
   }
 
-  let assistantResponse = 'Sorry! Our ChatBot is currently unavailable. Please try again later or contact \"pparks@sandiego.edu\".\n'
+  let assistantResponse = 'Sorry! Our ChatBot is currently unavailable.\nOur ChatBot will automatically boot up but this may take 5-10 minutes.\nPlease try again in a few minutes, or contact \"pparks@sandiego.edu\".\n'
   
   let newResponse = await getAssistantResponse(prompt);
   
