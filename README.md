@@ -109,5 +109,12 @@ Agenda:
 - Paul showed the Chatbot front-end: looked great
 - Alden to start the presentation slides
 - Adam to organize the documentation and the code for presentation
+  # Progress of project: as of 10/16/2023
+  project management:
+  ![image](https://github.com/agraves13/AAI520/assets/139398917/72e0e051-f338-4afe-8625-7ce9b74ae358)
+  - Presentation: most slides are done, and the presentation flow is 80% complete
+  - Code is %100 complete and is in the testing phase: Alden, Adam
+  
+
 
 
