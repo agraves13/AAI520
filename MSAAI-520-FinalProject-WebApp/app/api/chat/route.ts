@@ -3,6 +3,7 @@ import { HfInference } from '@huggingface/inference';
 // Create a new HuggingFace Inference instance
 const HFInferenceEndpoint = process.env.HUGGINGFACE_INFERENCE_ENDPOINT;
 const HFAuthorizationToken = process.env.HUGGINGFACE_API_KEY;
+const HFInferenceStatusEndpoint = process.env.HUGGINGFACE_INFERENCE_STATUS_ENDPOINT;
 
 // IMPORTANT! Set the runtime to edge
 export const runtime = 'edge';
@@ -24,6 +25,33 @@ function formatData(data:any) {
   }
   
   return formattedMsg;
+}
+
+async function getAssistantStatus(): Promise<string> {
+  let status = '';
+  try {
+    const endpoint = HFInferenceStatusEndpoint ? HFInferenceStatusEndpoint : '';
+    const response = await fetch(endpoint, {
+      method: 'GET',
+      headers: {
+        'accept': 'application/json',
+        'Authorization': `Bearer ${HFAuthorizationToken}`,
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error('Failed to get a successful response from HuggingFace endpoint.');
+    }
+
+    const data = await response.json();
+    const state = data.status.state;
+    const message = data.status.message;
+    status = `ChatBot State: \"${state}\", Message: \"${message}\"`;
+    
+  } catch (error) {
+    console.error("Caught an error:", error);
+  }
+  return status;
 }
 
 async function getAssistantResponse(prompt: string): Promise<string> {
@@ -80,12 +108,13 @@ async function* makeIterator(prompt: string) {
     return;
   }
 
-  let assistantResponse = 'Sorry! Our ChatBot is currently unavailable.\nOur ChatBot will automatically boot up but this may take 5-10 minutes.\nPlease try again in a few minutes, or contact \"pparks@sandiego.edu\".\n'
-  
   let newResponse = await getAssistantResponse(prompt);
   
   if (newResponse.trim() === "") {
-    yield encoder.encode(assistantResponse);
+
+    let errorMessage = 'Sorry! Our ChatBot is currently unavailable. Our ChatBot will automatically boot up but this may take 5-10 minutes. Please try again in a few minutes, or contact \"pparks@sandiego.edu\".\n\n\n';
+    errorMessage += await getAssistantStatus();
+    yield encoder.encode(errorMessage);
   } 
   else {
 
@@ -94,7 +123,6 @@ async function* makeIterator(prompt: string) {
     
     while (newResponse.trim() !== "") {
       yield encoder.encode(newResponse);
-      assistantResponse += newResponse;
       prompt += newResponse;
 
       if (prompt.length > maxPromptLength) {
