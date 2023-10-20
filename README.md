@@ -114,6 +114,18 @@ Agenda:
   ![image](https://github.com/agraves13/AAI520/assets/139398917/72e0e051-f338-4afe-8625-7ce9b74ae358)
   - Presentation: most slides are done, and the presentation flow is 80% complete
   - Code is %100 complete and is in the testing phase: Alden, Adam
+  # meeting #6: 10/16/2023 @ 05:00 PM
+Agenda:
+- Finishing up the code
+- What code is to be submitted: organize in GitHub and produce PDF files
+- How does each do their video presentation, select slides:Adam: slides 1-4 discussing the intro and going into the Retrieval Based info, Alden: Alden can take over the slides 5-7 discussing the evolution into the Generative model, discussing our model, our approach, the rationale behind it, the challenges, and Paul: Paul discussing the rest of the slides along with the HF architecture with the LLM, the code and the demonstration
+- Final submition action
+# 10/19/2023: Progress Report
+- Video presentations have been completed; now reviewing and fine tuning
+- Updated slides
+- Updated final documentation
+- 90% completion on all required material for project submition
+- Update all tasks on Trello project management
   
 
 
