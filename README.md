@@ -131,6 +131,9 @@ Agenda:
 - Completed the Project Documentation, going into team review (final review)
 - Completed the organization of all files to be submitted
 - Verified all links: GitHub, Youtube, Google
+- project Management status:
+  ![image](https://github.com/agraves13/AAI520/assets/139398917/06705efb-67be-4e44-9068-c99544a3635c)
+
 
 
 
