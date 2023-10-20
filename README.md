@@ -126,7 +126,11 @@ Agenda:
 - Updated final documentation
 - 90% completion on all required material for project submition
 - Update all tasks on Trello project management
-  
+# 10/20/2023: Progress Report
+- Completed the load of the video presentation to Youtube
+- Completed the Project Documentation, going into team review (final review)
+- Completed the organization of all files to be submitted
+- Verified all links: GitHub, Youtube, Google
 
 
 
