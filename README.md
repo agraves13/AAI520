@@ -133,6 +133,16 @@ Agenda:
 - Verified all links: GitHub, Youtube, Google
 - project Management status:
   ![image](https://github.com/agraves13/AAI520/assets/139398917/06705efb-67be-4e44-9068-c99544a3635c)
+# 10/22/2023: Progress Report
+Final project Management:
+![image](https://github.com/agraves13/AAI520/assets/139398917/e9458ab0-b05f-4612-ad15-6746a16c0483)
+- Last input to Project documentation
+- Last review of code
+- Last review of Chatbot demo:
+![image](https://github.com/agraves13/AAI520/assets/139398917/ea5ac355-af6c-49f0-9892-38187a92c8c8)
+- List and arrange all files for submission
+- Update all team members
+
 
 
 
